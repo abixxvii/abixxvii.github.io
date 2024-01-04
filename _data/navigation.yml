@@ -8,7 +8,8 @@ main:
 
     
   - title: "CV"
-    url: /cv/
+   # url: /cv/
+   url: /files/Abishai's CV.pdf
     
     
   - title: "Portfolio"
