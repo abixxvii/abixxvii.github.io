@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "Projects"
-    url: /Projects/
-
   - title: "Internships"
-    url: /Internships/
+    url: /internships/
 
+  - title: "Projects"
+    url: /projects/    
+    
+  - title: "Awards"
+    url: /awards/
+        
+  - title: "Blog Posts"
+    url: /year-archive/
+    
   - title: "CV"
     url: /files/Abishai's CV.pdf
-
-  - title: "Portfolio"
-    url: /Portfolio/
-
-  - title: "Guide"
-    url: /markdown/
