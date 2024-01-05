@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Abishai's Homepage'"
+title                    : "Abishai's personal page"
 title_separator          : "-"
 name                     : &name "Aditya Abishai Pedapati"
-description              : &description "personal description"
-url                      : https://github.com/abixxvii/aditya-abishai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "First year Master's student majoring in Mechatronics and Robotics"
+url                      : https://aditya-abishai.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "abixxvii/aditya-abishai/github.io"
+repository               : "aditya-abishai.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -56,9 +56,9 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-#twitter:
+twitter:
   username               : &twitter
-#facebook:
+facebook:
   username               :
   app_id                 :
   publisher              :
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Aditya Abishai Pedapati"
-  avatar           : "images/image.png"
-  bio              : "First year masters student majoring in Mechatronics and Robotics"
+  avatar           : "image.png"
+  bio              : "MS in Mechatronics and Robotics at NYU"
   location         : "New York City Metropolitan Area"
-  employer         : "New York University"
- # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
- # googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "NYU"
+  pubmed           : 
+  googlescholar    : 
   email            : "abishai.aditya@nyu.edu"
- # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,21 +99,21 @@ author:
   github           : "abixxvii"
   google_plus      :
   keybase          :
-  instagram        : "abishai11011"
+  instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/abishai-a-a4921925"
-  #orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "/abishai-a/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
- # twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : 
   wikipedia        :
 
 
@@ -175,7 +175,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  projects:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -212,7 +212,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: projects
     values:
       layout: single
       author_profile: true
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
