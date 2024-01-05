@@ -6,24 +6,11 @@ main:
   - title: "Internships"
     url: /Internships/
 
-    
   - title: "CV"
-   # url: /cv/
-   url: /files/Abishai's CV.pdf
-    
-    
+    url: /files/Abishai's CV.pdf
+
   - title: "Portfolio"
     url: /Portfolio/
-        
 
   - title: "Guide"
     url: /markdown/
-
- # - title: "Publications"
- #   url: /publications/
-
- # - title: "Talks"
- #   url: /talks/    
-
- # - title: "Teaching"
- #  url: /teaching/    
