@@ -9,3 +9,5 @@ collection: portfolio
 • Analyzed the defects on vehicles by implementing RCA and drafted an approach to reduce the defects.
 • Optimized KIA Carens by redesigning the tailgate and improving the structure of Body in White (BIW) in record time.
 • Reprogrammed the assembly bot.
+
+<br/><img src='/images/carens.jpg'>
