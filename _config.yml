@@ -83,36 +83,36 @@ author:
   bio: "MS in Mechatronics and Robotics at NYU"
   location: "New York City Metropolitan Area"
   employer: "NYU"
-  pubmed: ""
-  googlescholar: ""
+  pubmed: 
+  googlescholar: 
   email: "abishai.aditya@nyu.edu"
   researchgate:  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri: ""
-  bitbucket: ""
-  codepen: ""
-  dribbble: ""
-  flickr: ""
-  facebook: ""
-  foursquare: ""
+  uri: 
+  bitbucket: 
+  codepen: 
+  dribbble: 
+  flickr: 
+  facebook: 
+  foursquare: 
   github: "abixxvii"
-  google_plus: ""
-  keybase: ""
-  instagram: ""
+  google_plus: 
+  keybase: 
+  instagram: 
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm: ""
+  lastfm: 
   linkedin: "/abishai-a/"
-  orcid: ""
-  pinterest: ""
-  soundcloud: ""
-  stackoverflow: "" # http://stackoverflow.com/users/123456/username
-  steam: ""
-  tumblr: ""
-  twitter: ""
-  vine: ""
-  weibo: ""
-  xing: ""
-  youtube: ""
-  wikipedia: ""
+  orcid: 
+  pinterest: 
+  soundcloud: 
+  stackoverflow:  # http://stackoverflow.com/users/123456/username
+  steam: 
+  tumblr: 
+  twitter: 
+  vine: 
+  weibo: 
+  xing: 
+  youtube: 
+  wikipedia: 
 
 # Reading Files
 include:
