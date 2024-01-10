@@ -8,5 +8,5 @@ collection: portfolio
 Chiddarwar](https://scholar.google.com.hk/citations?user=B9InqKQAAAAJ&hl=en)
 
 
-• Modeled a robot by integrating mecanum wheels, placing a 6 DOF robot and improving the payload capacity
+• Modeled a robot by integrating mecanum wheels, placing a 6 DOF robot and improving the payload capacity.
 
