@@ -1,6 +1,6 @@
 ---
 title: "Project Intern @ IIT Madras"
-excerpt: "Interned at AMTDC, IIT Madras in Chennai, India India<br/><img src='/images/iit.jpg'>"
+excerpt: "Interned at AMTDC, IIT Madras in Chennai, India India<br/><img src='/images/iit.png'>"
 collection: portfolio
 ---
 
