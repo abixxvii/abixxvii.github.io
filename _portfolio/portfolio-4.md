@@ -1,16 +1,12 @@
 ---
 title: "Project Intern @ IIT Madras"
-excerpt: "Interned at AMTDC, IIT Madras in Chennai, India India<br/><img src='/images/ramky.png'>"
+excerpt: "Interned at AMTDC, IIT Madras in Chennai, India India<br/><img src='/images/iit.jpg'>"
 collection: portfolio
 ---
 
-• Interned in South India's largest waste to energy conversion plant.
+• Spearheaded a team of five to design and build an autonomous cotton crop harvester under the guidance of {https://scholar.google.com.hk/citations?user=B9InqKQAAAAJ&hl=en}(Dr. Shital
+Chiddarwar).
 
-<br/><img src='/images/wte.jpg'
 
-• This plant produces 28 MW of RDF (Refuse derived fuel) by consuming 1,200 tons of waste per day.
-
-• Developed an approach to utilise drones to spray 75 lts of liquid odorite to keep the stench in check.
-
-<br/><img src='/images/drones.jpg'
+• Modeled a robot by integrating mecanum wheels, placing a 6 DOF robot and improving the payload capacity
 
