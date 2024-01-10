@@ -1,6 +1,6 @@
 ---
 title: "Mechanical Design Engineer"
-excerpt: "Worked to integrate quick-release mechanisms for seatrest and footrest.<br/><img src='/images/Photo_1'>"
+excerpt: "Worked to integrate quick-release mechanisms for seatrest and footrest.<br/><img src='/images/Photo_1.jpg'>"
 collection: portfolio
 ---
 
