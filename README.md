@@ -1,2 +1,2 @@
 Personal Website
-https://aditya-abishai.github.io/
+https://abixxvii.github.io/
