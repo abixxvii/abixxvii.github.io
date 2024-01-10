@@ -4,7 +4,7 @@ date: 2023 June
 location: Hyderabad, India
 ---
 
-An in-depth analysis was conducted on the cooling performance of gas turbine blades. The focus of the study was on blades modeled using the NACA 65 series. The primary objective was to assess and optimize the cooling efficiency through the manipulation of various key parameters, including material composition, cross-sectional design, number of cooling holes, and the type of cooling fluid employed.
+An in-depth analysis was conducted on the cooling performance of gas turbine blades. The focus of the study was on blades modeled using the [NACA](https://en.wikipedia.org/wiki/NACA_airfoil) 65 series. The primary objective was to assess and optimize the cooling efficiency through the manipulation of various key parameters, including material composition, cross-sectional design, number of cooling holes, and the type of cooling fluid employed.
 
 ### Project Highlights:
 
