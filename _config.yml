@@ -11,9 +11,9 @@ title                    : "Abishai's personal page"
 title_separator          : "-"
 name                     : &name "Aditya Abishai Pedapati"
 description              : &description "First year Master's student majoring in Mechatronics and Robotics"
-url                      : https://aditya-abishai.github.io # the base hostname & protocol for your site
+url                      : https://abixxvii.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "aditya-abishai.github.io"
+repository               : "abixxvii.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
