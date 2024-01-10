@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "Project Intern @ KIA India Pvt Ltd"
+excerpt: "Interned in the vehicle quality control department and assembly shop<br/><img src='/images/KIA logo.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+• Interned in the vehicle quality control department in the plant with a capacity to produce over 300,000 cars annually.
+• Played a pivotal role along with industry leading engineers and researchers to bring down the defects per unit (DPU) below one(1).
+• Analyzed the defects on vehicles by implementing RCA and drafted an approach to reduce the defects.
+• Optimized KIA Carens by redesigning the tailgate and improving the structure of Body in White (BIW) in record time.
+• Reprogrammed the assembly bot.
