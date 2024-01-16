@@ -3,6 +3,10 @@ title: "SonarDuino"
 date: 2023 Dec
 location: "New York, US"
 ---
+
+<video src='/images/video_2024-01-16_16-35-23.mp4' width=180/>
+
+  
 "SonarDuino" is an innovative project that delves into the realm of robotics, specifically focusing
 on creating a 360-degree radar system for object detection. The project aims to enhance the
 capabilities of locomotion robots by providing them with the ability to detect the boundaries of
@@ -65,7 +69,7 @@ Result:
 
 <br/><img src='/images/sonarduinoinaction.png'>
 
-<br/><img src='/images/video_2024-01-16_16-35-23.mp4'>
+  
 
 
 
