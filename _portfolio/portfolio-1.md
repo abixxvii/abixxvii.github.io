@@ -14,5 +14,17 @@ This image shows the frame of the mountain bike.
 
 <br/><img src='/images/Mjolnir R 2.0 v5_master file.png'>
 
+This image shows the quickrelease lever.
+
+<br/><img src='/images/qrclamp.png'>
+
+This image shows the upgraded backrest clamp with quickrelease mechanisms on the shaft collars.
+
+<br/><img src='/images/shaftcollar.png'>
+
+This image shows the comparision of two design iterations.
+
+<br/><img src='/images/backrest.png'>
+
 
 More details can be found in the [repo](https://github.com/abixxvii/MjolnirMTB)
