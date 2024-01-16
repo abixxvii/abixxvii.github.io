@@ -74,4 +74,4 @@ Result:
 
 More information and the source code can be found in this [repo](https://github.com/shantanu-ghodgaonkar/NYU_Sonarduino).
 
-<video src='/images/video_2024-01-16_16-35-23.mp4' width=180/>
+<video src='/images/video_2024-01-16_16-35-23.mp4'>
