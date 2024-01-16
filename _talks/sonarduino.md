@@ -65,6 +65,8 @@ Result:
 
 <br/><img src='/images/sonarduinoinaction.png'>
 
+<br/><img src='/images/video_2024-01-16_16-35-23.mp4'>
+
 
 
 More information and the source code can be found in this [repo](https://github.com/shantanu-ghodgaonkar/NYU_Sonarduino).
