@@ -12,7 +12,7 @@ Project Mjolnir is an open-source project which aims to build an open-source ada
 
 This image shows the frame of the mountain bike.
 
-<br/><img src='/images/Mjolnir R 2.0 v5_master file'>.png
+<br/><img src='/images/Mjolnir R 2.0 v5_master file.png'>
 
 
 More details can be found in the [repo](https://github.com/abixxvii/MjolnirMTB)
