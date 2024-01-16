@@ -4,8 +4,6 @@ date: 2023 Dec
 location: "New York, US"
 ---
 
-<video src='/images/video_2024-01-16_16-35-23.mp4' width=180/>
-
   
 "SonarDuino" is an innovative project that delves into the realm of robotics, specifically focusing
 on creating a 360-degree radar system for object detection. The project aims to enhance the
@@ -15,6 +13,8 @@ NAvigation and Ranging equipment with the use of an Arduino Mega for processing 
 collecting data. Visualization of objects detected by the system is presented through a GUI
 (replicating a SONAR scanning system).
 
+<video src='/images/video_2024-01-16_16-35-23.mp4' width=180/>
+  
 SONAR, which stands for Sound Navigation and Ranging, is a technology that uses sound waves
 to navigate, communicate, and detect objects underwater. It plays a crucial role in various
 applications, including military, commercial shipping, fisheries, and oceanography. In robotics,
