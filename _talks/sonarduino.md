@@ -22,16 +22,12 @@ employs sound waves to sense the surrounding environment
 Bill Of Materials:
 ---
 
-No. Components Unit Cost Quantity Total Cost
-1 Arduino Mega 21 USD 1 21 USD
-2 Ultrasonic Sensor 35 USD 1 35 USD
-3 Servo Motor 1.5 USD 1 1.5 USD
-5 Pushbuttons 0.1 USD 3 0.3 USD
-6 Resistors (10K) 0.1 USD 3 0.3 USD
-7 3D Printed Casing 0.02 USD/gram 103 grams 2.06 USD
-8 TOTAL COST 60.16 USD
+<br/><img src='/images/bom.png'>
 
-<br/><img src='/images/systemdesign.jpg'>
+---
+System design:
+---
+<br/><img src='/images/systemdesign.png'>
 
 ---
 Operation:
