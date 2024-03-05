@@ -1,7 +1,9 @@
 ---
 title: "Mechanical Design Engineer @ Project Mjolnir, NYU"
 excerpt: "Worked to integrate quick-release mechanisms for seatrest and footrest during Fall '23.
-<img src='/images/Photo_1.jpg' alt='Shop' width='267' height='189'>"
+<img src='/images/Photo_1.jpg' alt='Shop' width='267' height='189'>
+<br>
+
 collection: portfolio
 ---
 
