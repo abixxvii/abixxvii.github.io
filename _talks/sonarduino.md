@@ -13,6 +13,11 @@ NAvigation and Ranging equipment with the use of an Arduino Mega for processing 
 collecting data. Visualization of objects detected by the system is presented through a GUI
 (replicating a SONAR scanning system).
 
+<video width="320" height="240" controls autoplay>
+  <source src='/images/video_2024-01-16_16-35-23.mp4' type='video/mp4'>
+  Your browser does not support the video tag.
+</video>
+
   
 SONAR, which stands for Sound Navigation and Ranging, is a technology that uses sound waves
 to navigate, communicate, and detect objects underwater. It plays a crucial role in various
