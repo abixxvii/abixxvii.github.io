@@ -1,6 +1,7 @@
 ---
 title: "Project Intern @ RE Sustainability"
-excerpt: "Interned at Waste to Energy conversion plant in Hyderabad, India<br/><img src='/images/ramky.png'>"
+excerpt: "Interned at Waste to Energy conversion plant in Hyderabad, India
+<img src='/images/ramky.png' alt='Ramky' width='267' height='189'>"
 collection: portfolio
 ---
 
