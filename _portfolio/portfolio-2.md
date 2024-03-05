@@ -1,6 +1,7 @@
 ---
 title: "Project Intern @ KIA India Pvt Ltd"
-excerpt: "Interned in the vehicle quality control department and assembly shop<br/><img src='/images/KIA logo.jpg'>"
+excerpt: "Interned in the vehicle quality control department and assembly shop
+<img src='/images/KIA logo.jpg' alt='KIA Logo' width='267' height='189'>"
 collection: portfolio
 ---
 
