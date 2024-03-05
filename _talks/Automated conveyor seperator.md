@@ -8,7 +8,10 @@ Abstract:
 
 This project presents an innovative Automatic Package Separator system utilizing Arduino technology to enhance the efficiency of package segregation based on addresses. The core components include the Arduino Microcontroller, a Waveshare 1D/2D Barcode Scanner with UART protocol, servo motors, a DC motor, an Ultrasonic Sensor, and an LCD Display Module.
 
-<a href='/images/IMG_8251.mp4'>Watch the video</a>
+<video width="320" height="240" controls autoplay>
+  <source src='/images/IMG_8251.mp4' type='video/mp4'>
+  Your browser does not support the video tag.
+</video>
 
 
 Operational Overview:
