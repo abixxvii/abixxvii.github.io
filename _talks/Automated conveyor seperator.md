@@ -44,4 +44,4 @@ Future Enhancements:
 
 Future developments may include integrating machine learning to optimize sorting algorithms, exploring robotics for automated package handling, and establishing a cascaded network of modules for multilevel sorting.
 
-This document provides a comprehensive overview of the Automatic Package Separator project, detailing its design, functionalities, and potential future enhancements.
+
