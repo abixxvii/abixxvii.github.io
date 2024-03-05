@@ -58,6 +58,8 @@ Project Objectives:
 
 The primary objectives are to minimize manual effort, decrease sorting errors, and significantly improve speed and accuracy in the sorting process.
 
+More information and the source code can be found in this [repo](https://github.com/abixxvii/conveyerAutoSep).
+
 Future Enhancements:
 
 Future developments may include integrating machine learning to optimize sorting algorithms, exploring robotics for automated package handling, and establishing a cascaded network of modules for multilevel sorting.
