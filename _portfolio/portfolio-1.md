@@ -7,6 +7,7 @@ excerpt: "Worked to integrate quick-release mechanisms for seatrest and footrest
 collection: portfolio
 ---
 
+
 Working with an international team along with Noel Joyce and Phil Caridi to re-design and optimize an adaptable mountain bike.
 
 This is a modular bike which is designed specifically to wheelchair users.
