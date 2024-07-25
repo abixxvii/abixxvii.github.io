@@ -12,14 +12,3 @@ Chiddarwar](https://scholar.google.com.hk/citations?user=B9InqKQAAAAJ&hl=en)
 • Drew inspiration from different rovers and modeled a robot by integrating mecanum wheels, placing a 6 DOF robot and improving the payload capacity.
 
 
-This image shows the first iteration.
-
-<br/><img src='/images/first.jpg'>
-
-This image shows the second iteration.
-
-<br/><img src='/images/second.jpg'>
-
-This image shows the third iteration.
-
-<br/><img src='/images/third.jpg'>
