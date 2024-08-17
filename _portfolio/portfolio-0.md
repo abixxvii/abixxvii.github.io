@@ -12,8 +12,8 @@ collection: portfolio
 
 Developed an automated system for the ICSI micromanipulator, integrating precise piezo-actuators and advanced segmentation capabilities.
 Showcased at an upcoming healthcare summit, this innovation has the potential to revolutionize Assisted Reproductive Technology (ART).
-One of the standout features of this system is its ability to move with submicron precision, allowing for unprecedented control and accuracy. But what's more, this precision can be manually overridden, giving users the flexibility to adjust the system to their specific needs.
-As an add-on to the existing lever, this automated system seamlessly integrates with current workflows. With its advanced capabilities and precision, this innovation has the potential to significantly improve ICSI success rates and revolutionize the field of ART.
+One of the standout features of this system is its ability to move with submicron precision, allowing for unprecedented control and accuracy. But what's more, the lever can still retains it's function and can be manually overridable, giving users the flexibility to adjust the system to their specific needs.
+As an add-on to the existing micromanipulator, this automated system seamlessly integrates with current workflows. With its advanced capabilities and precision, this innovation has the potential to significantly improve ICSI success rates and revolutionize the field of ART.
 
 Key benefits of this system include:
 
@@ -30,6 +30,6 @@ Redesigned two modules into a single, integrated unit, optimizing performance wi
 
 **Project 3: Hall Sensor Test, magnet selection and Fixture Development**
 
-Designed and developed a specialized fixture for testing hall sensors in an incubator environment, ensuring precise functionality and reliability.
+Designed and developed a specialized fixture for testing hall sensors on the IVF workstation, ensuring precise functionality and reliability.
 
 
