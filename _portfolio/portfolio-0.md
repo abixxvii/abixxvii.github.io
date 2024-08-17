@@ -8,7 +8,7 @@ excerpt:
 collection: portfolio
 ---
 
-**Project: Automated ICSI Micromanipulator (Fly By Wire)**
+**Project 1: Automated ICSI Micromanipulator (Fly By Wire)**
 
 Developed an automated system for the ICSI micromanipulator, integrating precise piezo-actuators and advanced segmentation capabilities.
 Showcased at an upcoming healthcare summit, this innovation has the potential to revolutionize Assisted Reproductive Technology (ART).
@@ -21,13 +21,14 @@ Key benefits of this system include:
 - Manual override capability, giving users flexibility and customization options
 - Advanced segmentation capabilities, enabling more precise and efficient procedures
 - Seamless integration with existing mechanism, minimizing disruption to current workflows
+  
 
-**Project: Fan and Temperature Module Revamp for the Advanced Micromanipulator**
+**Project 2: Fan and Temperature Module Revamp for the Advanced Micromanipulator**
 
 Redesigned two modules into a single, integrated unit, optimizing performance without compromising functionality.
 
-**
-Project: Hall Sensor Test, magnet selection and Fixture Development**
+
+**Project 3: Hall Sensor Test, magnet selection and Fixture Development**
 
 Designed and developed a specialized fixture for testing hall sensors in an incubator environment, ensuring precise functionality and reliability.
 
