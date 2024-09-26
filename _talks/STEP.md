@@ -46,6 +46,6 @@ Miscellaneous items.
    - Experimenting with the existing 6 DOF biped to convert it into an 8 DOF model.
    - Actuating the 4-bar parallel linkage to enhance ankle movement.
 
-Visit/follow the [Vault](https://abhinavkumarak56.wixsite.com/project-step-1) to explore the work completed in the past.
-
 *Please note that current website is a work in progress. Stay tuned for updates on the project's progress!*
+
+In the meantime, Visit/follow the [Vault](https://abhinavkumarak56.wixsite.com/project-step-1) to explore the work completed in the past.
