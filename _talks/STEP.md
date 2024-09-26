@@ -44,4 +44,4 @@ Iterative Development Process:
 
 Visit/follow the [Vault](https://abhinavkumarak56.wixsite.com/project-step-1) to explore the work completed in the past.
 
-*Please note that our current website is a work in progress. Stay tuned for updates on the project's progress!*
+*Please note that current website is a work in progress. Stay tuned for updates on the project's progress!*
