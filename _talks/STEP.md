@@ -1,5 +1,5 @@
 ---
-title: "Stair Traversal Exploration Platform" [Work in Progress]
+title: "Stair Traversal Exploration Platform"
 date: 2024 September to 2024 December 
 location: New York, US
 ---
