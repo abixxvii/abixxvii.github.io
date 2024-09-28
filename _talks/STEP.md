@@ -51,9 +51,11 @@ Miscellaneous items.
 <br/><img src='/images/concept.jpg'>
 
 <br/><img src='/images/pregen design.jpg'>
+
 ***Picture shows the experimentation before generative design.***
 
 <br/><img src='/images/gendesign.jpg'>
+
 ***Picture shows the link after subjecting to generative design***
 
 
