@@ -42,9 +42,20 @@ Miscellaneous items.
 **Iterative Development Process:**
 - Continuous testing and refinement of designs based on performance feedback.
 
+<br/><img src='/images/existing biped.jpg'>
+
 2. **_[Experimentation]_**
    - Experimenting with the existing 6 DOF biped to convert it into an 8 DOF model.
    - Actuating the 4-bar parallel linkage to enhance ankle movement.
+   
+<br/><img src='/images/concept.jpg'>
+
+<br/><img src='/images/existing pregen design.jpg'>
+***Picture shows the experimentation before generative design.***
+
+<br/><img src='/images/gendesign.jpg'>
+***Picture shows the link after subjecting to generative design***
+
 
 *Please note that current website is a work in progress. Stay tuned for updates on the project's progress!*
 
