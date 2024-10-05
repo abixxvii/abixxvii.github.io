@@ -58,6 +58,13 @@ Miscellaneous items.
 
 ***Picture shows the link after subjecting to generative design***
 
+<br/><img src='/images/iter2.png'>
+
+***Picture shows the second iteration of the concept***
+
+<br/><img src='/images/sideviewiter2.png'>
+
+***Picture shows the side view of the 2nd iteration***
 
 *Please note that current website is a work in progress. Stay tuned for updates on the project's progress!*
 
