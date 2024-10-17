@@ -68,4 +68,4 @@ Miscellaneous items.
 
 *Please note that current website is a work in progress. Stay tuned for updates on the project's progress!*
 
-In the meantime, Visit/follow the [Project STEP] (https://ma82112.wixsite.com/nyuprojectstep)
+In the meantime, Visit/follow the [Project STEP](https://ma82112.wixsite.com/nyuprojectstep)
