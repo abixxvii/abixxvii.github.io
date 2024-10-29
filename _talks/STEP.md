@@ -74,7 +74,7 @@ Miscellaneous items.
 
 ***Picture shows the side view of the 2nd iteration***
 
-<br/><img src='/images/6-8dof.jpg'>
+<br/><img src='/images/6-8dof.jpeg'>
 
 ***Picture shows the bot which was showcased during an event at NYU***
 
