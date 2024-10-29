@@ -21,6 +21,14 @@ The 12 DOF biped will feature 6 DOF per leg, including:
 - Knee: 1 DOF (pitch).
 - Ankle: 2 DOF (pitch, roll).
 
+<br/><img src='/images/orthographichip.jpg'>
+
+***Picture shows the orthographic view of the hip [WIP]***
+
+<br/><img src='/images/side view.jpg'>
+
+***Picture shows the side view of the hip [WIP]***
+
 **Torso Functionality:**
 - The torso will house and secure essential components, including:
 Battery.
@@ -65,6 +73,10 @@ Miscellaneous items.
 <br/><img src='/images/sideviewiter2.png'>
 
 ***Picture shows the side view of the 2nd iteration***
+
+<br/><img src='/images/6-8dof.jpg'>
+
+***Picture shows the bot which was showcased during an event at NYU***
 
 *Please note that current website is a work in progress. Stay tuned for updates on the project's progress!*
 
