@@ -4,7 +4,7 @@ date: 2024 September to 2024 December
 location: New York, US
 ---
 
-<br/><img src='/images/prototype5v138.png'>
+<br/><img src='/images/prototype5 v138.png'>
 
 The goal of the STEP project is to create and optimize a biped capable of intelligent and dynamic locomotion.
 
