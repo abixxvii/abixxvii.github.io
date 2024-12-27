@@ -79,3 +79,6 @@ Programming Language: The system is programmed in C++ using the Arduino IDE for 
   <source src='/images/gestures1.mp4' type='video/mp4'>
   Your browser does not support the video tag.
 </video>
+
+
+More information can be found by visiting [my repo](https://github.com/abixxvii/EMG-controlled-prosthetic-arm-)
