@@ -60,6 +60,8 @@ Full Flex → All fingers fully close.
   Your browser does not support the video tag.
 </video>
 
+<br/><img src='/images/algorithm_emg.png'>
+
 
 ## Technical Details
 
