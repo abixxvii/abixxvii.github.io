@@ -55,6 +55,12 @@ Relaxation → Fingers return to neutral positions.
 Mild Flex → Some fingers partially close.
 Full Flex → All fingers fully close.
 
+<video width="320" height="240" controls autoplay>
+  <source src='/images/gestures.mp4' type='video/mp4'>
+  Your browser does not support the video tag.
+</video>
+
+
 ## Technical Details
 
 **Hardware Components**
@@ -68,11 +74,6 @@ Dynamic Thresholding: Adapts thresholds based on user-specific baseline muscle a
 Servo Library: Provides functions for controlling servo motors with precision and ease using Arduino.
 Programming Language: The system is programmed in C++ using the Arduino IDE for real-time signal processing and motor control.
 
-
-<video width="320" height="240" controls autoplay>
-  <source src='/images/gestures.mp4' type='video/mp4'>
-  Your browser does not support the video tag.
-</video>
 
 <video width="320" height="240" controls autoplay>
   <source src='/images/gestures1.mp4' type='video/mp4'>
