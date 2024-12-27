@@ -5,7 +5,13 @@ location: New York, US
 ---
 
 ### Overview
-This project demonstrates an innovative way to control a robotic hand using an EMG (Electromyography) sensor. By detecting muscle activity, the system interprets the intensity of muscle flexing and translates it into real-time movements of a robotic hand. The system is designed to be adaptive, responsive, and smooth, making it an excellent demonstration of how biomedical signals can interact with robotics.
+This project demonstrates an innovative approach to controlling a robotic hand using MyoWare EMG sensors. By detecting muscle activity, the system interprets the intensity of muscle flexing and translates it into real-time movements of a robotic hand. I might be late to the party, with startups like Psyonic, Esko Bionics, and Esper Bionics already leading the way in this field, but working on this project was an invaluable learning experience!
+
+<video width="320" height="240" controls autoplay>
+  <source src='/images/grasp.mp4' type='video/mp4'>
+  Your browser does not support the video tag.
+</video>
+
 
 ### Key Features
 **Muscle-Controlled Movements:**
@@ -61,3 +67,14 @@ Low-Pass Filter: Smooths noisy EMG signals for better accuracy and stability dur
 Dynamic Thresholding: Adapts thresholds based on user-specific baseline muscle activity, enabling personalized control of the robotic hand.
 Servo Library: Provides functions for controlling servo motors with precision and ease using Arduino.
 Programming Language: The system is programmed in C++ using the Arduino IDE for real-time signal processing and motor control.
+
+
+<video width="320" height="240" controls autoplay>
+  <source src='/images/gestures.mp4' type='video/mp4'>
+  Your browser does not support the video tag.
+</video>
+
+<video width="320" height="240" controls autoplay>
+  <source src='/images/gestures1.mp4' type='video/mp4'>
+  Your browser does not support the video tag.
+</video>
