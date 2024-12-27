@@ -5,7 +5,8 @@ location: New York, US
 ---
 
 ### Overview
-This project demonstrates an innovative approach to controlling a robotic hand using MyoWare EMG sensors. By detecting muscle activity, the system interprets the intensity of muscle flexing and translates it into real-time movements of a robotic hand. I might be late to the party, with startups like Psyonic, Esko Bionics, and Esper Bionics already leading the way in this field, but working on this project was an invaluable learning experience!
+This project was completed as part of my guided reading on Robots for Disability and demonstrates an approach to controlling a robotic hand using MyoWare EMG sensors. By detecting muscle activity, the system interprets the intensity of muscle flexing and translates it into real-time movements of a robotic hand.
+I might be late to the party, with startups like Psyonic, Esko Bionics, and Esper Bionics already leading the way in this field, but working on this project was an invaluable learning experience!
 
 <video width="320" height="240" controls autoplay>
   <source src='/images/grasp.mp4' type='video/mp4'>
@@ -78,9 +79,19 @@ Programming Language: The system is programmed in C++ using the Arduino IDE for 
 
 
 <video width="320" height="240" controls autoplay>
-  <source src='/images/gestures1.mp4' type='video/mp4'>
+  <source src='/images/gesture1.mp4' type='video/mp4'>
   Your browser does not support the video tag.
 </video>
 
+## Issues
+**Machine Learning Model Challenges:**
+Overfitting: The ML model was trained on a limited dataset, which caused it to memorize the training data rather than generalizing to new inputs. This led to poor performance on unseen data.
+
+**Class Imbalance:** The dataset had an uneven distribution of classes, causing the model to predict only one dominant outcome consistently.
+
+**Power Supply Constraints:**
+Using different types of servos (with varying power requirements) resulted in a high power demand, which sometimes exceeded the available input capacity. This caused inconsistent servo performance and potential overheating issues.
+
+So, I took a simpler approach by using dynamic thresholding and servo control logic instead of relying on ML models. This approach worked perfectly for what I wanted to achieve—real-time control of a robotic hand based on muscle activity
 
 More information can be found by visiting [my repo](https://github.com/abixxvii/EMG-controlled-prosthetic-arm-)
