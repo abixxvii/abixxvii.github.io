@@ -1,5 +1,6 @@
 ---
 title: "New Product Development Intern (R&D) @ CooperSurgical, Inc"
+date: 2024 May to 2024 August
 excerpt: 
   Interned at CSI's innovative R&D and NPD department. Juggled multiple projects and collaborated with exceptional engineers.
  <img src='/images/csi.jpg' alt='Shop' width='267' height='189'>
