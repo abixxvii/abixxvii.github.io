@@ -18,6 +18,12 @@ I lead the new phase of the stair traversal and exploration platform, focusing o
 
 Previously, I collaborated with the inception team towards the end of their tenure and now oversee this new phase. The team successfully developed 2, 4, 6, and 10 DOF robots (with 8 active and 2 passive degrees of freedom).
 
+
+<video width="320" height="240" controls autoplay>
+  <source src='/images/10 dof walk.mov' type='video/mov'>
+  Your browser does not support the video tag.
+</video>
+
 Currently, I am spearheading the development of a 12 DOF biped and experimenting with upgrading the existing 6 DOF model to 8 DOF by adding ankle actuation in the pitch direction.
 
 1. **_[12 DOF Bi-Ped Design Overview]_**:
