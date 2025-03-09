@@ -1,6 +1,6 @@
 ---
 title: "Stair Traversal Exploration Platform"
-date: 2024 September to 2024 December 
+date: 2024 September to 2025 February
 location: New York, US
 ---
 
@@ -20,9 +20,11 @@ Previously, I collaborated with the inception team towards the end of their tenu
 
 
 <video width="320" height="240" controls autoplay>
-  <source src='/images/10 dof walk.mov' type='video/mov'>
+  <source src='/images/10 dof walk.mp4' type='video/mp4'>
   Your browser does not support the video tag.
 </video>
+
+***Video shows the control of the 10 DOF bot using PPO [URDF optimized for simulation]***
 
 Currently, I am spearheading the development of a 12 DOF biped and experimenting with upgrading the existing 6 DOF model to 8 DOF by adding ankle actuation in the pitch direction.
 
