@@ -9,7 +9,9 @@ collection: portfolio
 - Played a pivotal role in uplifting and maintaining the quality of Carens, a newly released model specific to Indian market.
 - Tackled D pillar & tailgate leak crisis of Carens (Indian specific vehicle) with failure analysis, RCA. 
 - Redesigned the weatherstrip, changed the mounting location of the tailgate, reduced the number of spot welds to prevent warpage while maintaining the structural integrity and redesigned the drip channel to ease the flow of water.
+
+Awarded the best capstone project during my Bachelor's for my work done during the internship.
   
-Cannot add images of the results or improvemts due to NDA. 
+Cannot add images of the results or improvements due to NDA. 
 
 <br/><img src='/images/carens.jpg'>
