@@ -8,7 +8,7 @@ excerpt:
 collection: portfolio
 ---
 
-Collaborated with XFN teams, worked on multiple projects. Some notable projects include,
+Collaborated with XFN teams, worked on multiple FDA compliant projects scheduled to launch soon. Built test rigs and tested the reliability of equipment according to ISO standards. Some notable projects include,
 
 **Project 1: Automated ICSI Micromanipulator (Fly By Wire) AKA Auto Integra**
 
