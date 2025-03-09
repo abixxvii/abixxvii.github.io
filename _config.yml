@@ -10,7 +10,6 @@ locale: "en-US"
 title: "Abishai's Personal Page"
 title_separator: "-"
 name: &name "Aditya Abishai Pedapati"
-preferred name: &preferred name "Abishai"
 description: &description "Second-year Master's student majoring in Mechatronics and Robotics"
 url: https://abixxvii.github.io # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. "/blog"
@@ -84,7 +83,7 @@ author:
   avatar: "propic.jpg"
   bio: "MS in Mechatronics and Robotics at NYU"
   location: "New York City"
-  employer: "New York University"
+  employer: "MechE Intern at RPD, LLC"
   pubmed: 
   googlescholar: 
   email: "abishai.aditya@nyu.edu"
