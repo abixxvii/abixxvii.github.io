@@ -26,8 +26,9 @@ Key benefits of this system include:
 
 The system was demoed at an R&D summit for it's impact and potential to ease and improve the IVF process.
 
- <img src='/images/icsi.png' alt='Shop' width='267' height='189'>
-***The image shows RI Integra 3 (non-FBW / auto integra) micromanipulator***
+ <img src='/images/icsi.png' alt='Shop' width='300' height='200'>
+ 
+***The image shows RI Integra 3 (non-FBW / auto integra) micromanipulator.***
 
 **Project 2: Fan and Temperature Module Revamp for the Advanced Micromanipulator**
 
