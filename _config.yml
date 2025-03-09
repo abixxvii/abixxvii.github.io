@@ -10,6 +10,7 @@ locale: "en-US"
 title: "Abishai's Personal Page"
 title_separator: "-"
 name: &name "Aditya Abishai Pedapati"
+preffered name: &preferred name "Abishai"
 description: &description "Second-year Master's student majoring in Mechatronics and Robotics"
 url: https://abixxvii.github.io # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. "/blog"
