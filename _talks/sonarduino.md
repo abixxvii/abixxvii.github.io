@@ -79,4 +79,8 @@ Result:
 
 More information and the source code can be found in this [repo](https://github.com/shantanu-ghodgaonkar/NYU_Sonarduino).
 
+Team, 
+[Shantanu](https://www.linkedin.com/in/s-n-g)
+[Mihir](https://www.linkedin.com/in/kshirsagarmihir)
+
 
