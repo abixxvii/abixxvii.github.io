@@ -64,4 +64,9 @@ Future Enhancements:
 
 Future developments may include integrating machine learning to optimize sorting algorithms, exploring robotics for automated package handling, and establishing a cascaded network of modules for multilevel sorting.
 
+Team, 
+[Shantanu](https://www.linkedin.com/in/s-n-g)
+[Hemant](https://www.linkedin.com/in/a-hemant)
+[Mihir](https://www.linkedin.com/in/kshirsagarmihir)
+
 
