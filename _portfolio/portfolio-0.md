@@ -11,7 +11,7 @@ collection: portfolio
 
 Collaborated with XFN teams, worked on multiple FDA compliant projects scheduled to launch soon. Built test rigs and tested the reliability of equipment according to ISO standards. Some notable projects include,
 
-**Project 1: Automated ICSI Micromanipulator (Fly By Wire) AKA Auto Integra**
+**Project 1: Automated Robotic ICSI Micromanipulator (Fly By Wire) AKA Auto Integra**
 
 Developed an automated system for the ICSI micromanipulator RI Integra 3, integrating precise piezo-actuators and advanced segmentation capabilities.
 Showcased at an upcoming healthcare summit, this innovation has the potential to revolutionize Assisted Reproductive Technology (ART).
@@ -26,6 +26,8 @@ Key benefits of this system include:
 - Seamless integration with existing mechanism, minimizing disruption to current workflows
 
 The system was demoed at an R&D summit for it's impact and potential to ease and improve the IVF process.
+
+[Know Art has a cool video about the tech used in Auto Integra](https://www.youtube.com/watch?v=0GbrgwghUbM)
 
  <img src='/images/icsi.png' alt='Shop' width='300' height='200'>
  
