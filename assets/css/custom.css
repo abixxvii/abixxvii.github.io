@@ -1,20 +1,32 @@
+/* Dark mode base styles */
 body.dark-mode {
   background-color: #121212;
   color: #f0f0f0;
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-.dark-mode a {
+/* Link color in dark mode */
+body.dark-mode a {
   color: #90caf9;
 }
 
+/* Theme toggle button */
 #theme-toggle {
   position: fixed;
   top: 1rem;
   right: 1rem;
-  background: none;
-  border: 2px solid #ccc;
-  color: inherit;
-  padding: 0.4rem 0.6rem;
+  background-color: #1e1e1e;
+  color: #ffffff;
+  border: none;
+  padding: 0.5rem 0.75rem;
+  font-size: 1.2rem;
+  border-radius: 8px;
   cursor: pointer;
-  border-radius: 6px;
+  z-index: 9999;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Optional hover effect */
+#theme-toggle:hover {
+  background-color: #333333;
 }
