@@ -7,6 +7,7 @@
 
 # Site Settings
 locale: "en-US"
+minimal_mistakes_skin: "dark"
 title: "Abishai's Personal Page"
 title_separator: "-"
 name: &name "Aditya Abishai Pedapati"
