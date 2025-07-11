@@ -7,7 +7,7 @@ collection: portfolio
 
 Interned at KIA India’s Vehicle Quality & Engineering division during the launch phase of the India-specific Kia Carens. Worked on the ground at a production facility with an annual output exceeding 300,000 vehicles, supporting high-priority quality initiatives across multiple models.
 
-I played a key role in resolving a critical tailgate water leakage issue on the Kia Carens, which was traced to geometric misalignments and weld-induced warpage. I helped redesign the weatherstrip, modify the tailgate mounting location, optimize drip channel layout, and reduce spot welds while maintaining structural integrity. These changes reduced the defect rate from 62% to 0% and were validated through SPC and water leakage testing.
+I played a key role in resolving a critical tailgate water leakage issue on the Kia Carens, which was traced to geometric misalignments and weld-induced warpage. I conducted a structured failure analysis using 7 QC tools, SPC, and fishbone diagrams to pinpoint root causes. Based on these findings, I helped redesign the weatherstrip, modify the tailgate mounting location, optimize drip channel layout, and reduce spot welds while maintaining structural integrity. These changes reduced the defect rate from 62% to 0% and were validated through leak testing and statistical control measures.
 
 In parallel, I addressed a cowl fitment issue in the Kia Seltos, implementing design revisions that led to a 40% reduction in assembly time. I also contributed to improving First Time Yield by over 70% and enhancing OEE metrics by supporting root cause analysis, die corrections, and supplier process improvements.
 
