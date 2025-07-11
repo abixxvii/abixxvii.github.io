@@ -17,8 +17,25 @@ Other impactful work includes redesigning thermal and airflow modules, optimizin
 
 [Know Art has a cool video about the tech used in Auto Integra](https://www.youtube.com/watch?v=0GbrgwghUbM)
 
- <img src='/images/icsi.png' alt='Shop' width='300' height='200'>
- 
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 1.5em; max-width: 800px; margin-left: auto; margin-right: auto;">
+  <figure style="text-align: center; flex: 1;">
+    <img src="/images/icsi.png" alt="RI Integra 3" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
+    <figcaption style="font-size: 0.9em; margin-top: 0.5em;">RI Integra 3 (non-FBW / Auto Integra) micromanipulator</figcaption>
+  </figure>
+  <figure style="text-align: center; flex: 1;">
+    <img src="/images/Screenshot 2025-07-11 115207.png" alt="Biosafety Cabinet" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
+    <figcaption style="font-size: 0.9em; margin-top: 0.5em;">Class III biosafety cabinet under development at CSI</figcaption>
+  </figure>
+</div>
+
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 1em; max-width: 800px; margin-left: auto; margin-right: auto;">
+  <figure style="text-align: center; flex: 1;">
+    <img src="/images/Screenshot 2025-07-11 115602.png" alt="Hall Sensor Working" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
+    <figcaption style="font-size: 0.9em; margin-top: 0.5em;">Working principle of hall sensor used in benchtop incubator</figcaption>
+  </figure>
+</div>
+
+
 ***The image shows RI Integra 3 (non-FBW / auto integra) micromanipulator.***
 
 
