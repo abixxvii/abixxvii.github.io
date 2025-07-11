@@ -13,7 +13,13 @@ In parallel, I addressed a cowl fitment issue in the Kia Seltos, implementing de
 
 This internship served as my undergraduate capstone project and was recognized as the best in my cohort. Due to NDA constraints, specific images and test data cannot be publicly shared.
 
-<div style="display: flex; gap: 10px; justify-content: center; margin-top: 1em;">
-  <img src="/images/carens.jpg" alt="Carens" width="300" height="200">
-  <img src="/images/Screenshot 2025-07-11 113809.png" alt="Screenshot" width="300" height="200">
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 1.5em;">
+  <figure style="text-align: center;">
+    <img src="/images/carens.jpg" alt="Kia Carens" width="280" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
+    <figcaption style="font-size: 0.9em; margin-top: 0.5em;">Kia Carens — India-specific model</figcaption>
+  </figure>
+  <figure style="text-align: center;">
+    <img src="/images/Screenshot 2025-07-11 113809.png" alt="Kia Seltos X-Line" width="280" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
+    <figcaption style="font-size: 0.9em; margin-top: 0.5em;">Kia Seltos X-Line — Cowl assembly optimization</figcaption>
+  </figure>
 </div>
