@@ -6,9 +6,15 @@ location: New York, US
 
 <br/><img src='/images/Prototype5 v138.png'>
 
-The goal of the STEP project is to create and optimize a biped capable of intelligent and dynamic locomotion.
+Project STEP began as a scrappy capstone project at NYU. We were a group of curious engineers trying to build humanoid robots that could walk. No frills, just a mission to make something move. Over time, it grew into a formal student team where both undergraduates and graduate students could contribute through a credit-bearing course or as volunteers.
 
-I lead the new phase of the stair traversal and exploration platform, focusing on building bipedal robots from the ground up using both 3D printing and machining techniques.
+As the inaugural team lead, I focused on the mechanical design and development of the next generation of bipeds, using insights from previous failures to create more modular, manufacturable systems. At the same time, I took on team operations, marketing, fundraising, budgeting, and mentoring a vertically integrated group of students from different academic levels.
+
+I successfully secured sponsorships and raised funds, including a significant hardware grant from SendCutSend. This allowed us to move from 3D-printed prototypes to robust, CNC-machined and sheet metal designs, which elevated the quality and realism of our robots.
+
+I personally designed, built, and tested multiple robots that combined carbon fiber, 3D printing, and machined components. I am now leading development on a 12-degree-of-freedom biped designed for easy fabrication, quick assembly, and future research adaptability.
+
+I also introduced topology optimization and DFMA principles to improve performance and accelerate iteration. Today, STEP is not just a project but a living robotics platform that blends real-world engineering, collaboration, and student-led innovation.
 
 
 <br/><img src='/images/6dofcf.png'>
@@ -16,7 +22,7 @@ I lead the new phase of the stair traversal and exploration platform, focusing o
 ***Picture shows the 6 DOF bot which uses carbon fibre (CFRP) links and ABS (3D Printed) links***
 
 
-Previously, I collaborated with the inception team towards the end of their tenure and now oversee this new phase. The team successfully developed 2, 4, 6, and 10 DOF robots (with 8 active and 2 passive degrees of freedom).
+
 
 
 <video width="320" height="240" controls autoplay>
