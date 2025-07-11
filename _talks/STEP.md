@@ -16,8 +16,14 @@ I personally designed, built, and tested multiple robots that combined carbon fi
 
 I also introduced topology optimization and DFMA principles to improve performance and accelerate iteration. Today, STEP is not just a project but a living robotics platform that blends real-world engineering, collaboration, and student-led innovation.
 
+<br/><img src='/images/Screenshot 2025-07-11 182636.png'>
+
+
+***Picture shows the 13 DOF bot which will be fabricated with sheet metal and CNC machining***
+
 
 <br/><img src='/images/6dofcf.png'>
+
 
 ***Picture shows the 6 DOF bot which uses carbon fibre (CFRP) links and ABS (3D Printed) links***
 
