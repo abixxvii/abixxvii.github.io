@@ -1,7 +1,6 @@
 ---
 title: "Project Intern @ IIT Madras"
-excerpt: "Interned at AMTDC, IIT Madras in Chennai, India
-<img src='/images/iit.png' alt='IIT Logo' width='267' height='189'>"
+excerpt: "Interned at AMTDC, IIT Madras in Chennai, India <img src='/images/iit.png' alt='IIT Logo' height='20' style='vertical-align: middle;'>"
 collection: portfolio
 ---
 
@@ -9,10 +8,10 @@ collection: portfolio
   <img src="/images/iit.png" alt="IIT Madras Logo" style="width: 160px; height: auto; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
   <div>
     <p>
-      Interned at IIT Madras as a project lead, where I spearheaded a five-member team to design and prototype an autonomous cotton crop harvester under the mentorship of Dr. Shital Chiddarwar and AMTDC.
+      Interned at IIT Madras in collaboration with AMTDC, where I led a five-member team to design and prototype an autonomous cotton crop harvester under the mentorship of Dr. Shital Chiddarwar.
     </p>
     <p>
-      Drawing inspiration from planetary rovers, we developed a rugged robotic platform using mecanum wheels for omnidirectional mobility and integrated a 6-DOF robotic arm optimized for payload and reach. The system was designed to navigate uneven agricultural terrain and perform selective harvesting tasks with high precision.
+      Inspired by planetary rovers, we developed a rugged mobile platform with mecanum wheels for omnidirectional motion and integrated a 6-DOF robotic arm tailored for field-level precision. The system was built to traverse uneven terrain and perform selective harvesting with adaptability and accuracy.
     </p>
   </div>
 </div>
