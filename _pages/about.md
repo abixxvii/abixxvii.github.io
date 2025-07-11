@@ -9,9 +9,10 @@ redirect_from:
 ---
 
 
-I’m a second-year Master’s student in Mechatronics and Robotics at NYU, with a First-Class BE in Mechanical Engineering from Osmania University, India. I’m hooked on pushing tech limits—blending mechanical design and robotics to innovate in automotive, brain-computer interfaces, healthcare, wearables, and humanoid systems. My path’s all about delivering solutions that matter.
+I’m a recent grad in Mechatronics & Robotics at NYU, with a First-Class BE in Mechanical Engineering from Osmania University, India. I specialize in turning visionary ideas into reality. I love to take stuff from from 0→1 (concept to prototype) and scaling them 1→n (prototype to mass deployment) across automotive, brain-computer interfaces, healthcare, wearables, and humanoid systems.
 
-I’ve stacked hands-on wins across diverse roles. At [KIA India](https://www.kia.com/in/home.html), I cut [Carens](https://en.wikipedia.org/wiki/Kia_Carens#Fourth_generation_(KY;_2022)) defects 62% with a weatherstrip redesign and weld adjustments, achieving zero leakage. At [Coopersurgical, Inc.](https://www.coopersurgical.com/about-us/), I built the Auto Integra [ICSI](https://en.wikipedia.org/wiki/Intracytoplasmic_sperm_injection#:~:text=Intracytoplasmic%20sperm%20injection%20%28ICSI%20%2F%20%CB%88%C9%AAksi%20%2F%20IK-see%29,that%20may%20be%20transferred%20to%20a%20maternal%20uterus) micromanipulator—nailing ±2µm IVF precision with piezo actuators—showcased at an R&D summit. At RPD, LLC, I’m designing robotic hardware, refining reliability with SolidWorks and FEA. Leading NYU’s Project STEP, I’ve engineered a bipedal robots for three iterations —now in its fifth iteration. Back at Osmania, I worked as a suspension engineer for Baja Team Torque, enhancing vehicle durability 30% with FEA-optimized designs.
+I’ve stacked hands-on wins across diverse roles. Interned in the automotive, medtech, sustainability, and consumer industries. I’ve worked with industry giants like [Coopersurgical, Inc.](https://www.coopersurgical.com/about-us/) and [KIA India](https://www.kia.com/in/home.html), and took full ownership of design-to-manufacturing (high volume) at a startup in Spring '25. Across the board, I delivered high-impact results that truly moved the needle.
 
-I'm driven to fuse hardware and software into seamless, high-impact systems. Let's revolutionize tech an change lives for good!
+ I’m passionate about building across disciplines. I enjoy wearing multiple hats. whether it’s designing, fabricating, testing, or working closely with teammates to get things done. I bring curiosity, precision, and energy to every project I take on.
 
+I'm driven to fuse hardware and software into seamless, high-impact systems. 
