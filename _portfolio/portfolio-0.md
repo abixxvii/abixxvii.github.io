@@ -3,7 +3,7 @@ title: "Mechanical Engineering Intern @ RPD, LLC"
 date: 2025 January 
 collection : portfolio
 ---
-Interned at RPD, LLC, a fast-paced product engineering supporting clients like[Medtronic](https://www.medtronic.com/en-us/index.html), [CooperSurgical](https://www.coopersurgical.com/), [SPI](https://www.spi-co.com/), [Cleanflame](https://www.cleanflameus.com/) and many more. I led mechanical design and validation efforts across 5+ client programs, owning cradle-to-grave development of both low- and high-volume production components.
+Interned at RPD, LLC, a fast-paced product engineering supporting clients like [Medtronic](https://www.medtronic.com/en-us/index.html), [CooperSurgical](https://www.coopersurgical.com/), [SPI](https://www.spi-co.com/), [Cleanflame](https://www.cleanflameus.com/) and many more. I led mechanical design and validation efforts across 5+ client programs, owning cradle-to-grave development of both low- and high-volume production components.
 
 My work spanned CNC machining, 3D printing, and extensive sheet metal fabrication including bending, stamping, and weldments, as well as injection molding for complex geometries. I designed custom test fixtures for V&V, and developed a chip-on-glass LED module for biosafety cabinet applications. This design improved thermal dissipation by 78% and simplified assembly to enable cost-efficient scaling.
 
