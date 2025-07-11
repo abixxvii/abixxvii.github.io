@@ -12,7 +12,7 @@ collection: portfolio
   <img src="/images/Photo_1.jpg" alt="Mjolnir Frame" style="width: 160px; height: auto; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
   <div>
     <p>
-      As part of NYU Tandon’s VIP program, I collaborated with Noel Joyce and Phil Caridi to develop <strong>Project Mjolnir</strong>—an open-source adaptive mountain bike designed for wheelchair users. The modular platform allows builders worldwide to manufacture most components locally, offering an upgradeable, cost-effective alternative to specialty adaptive bikes.
+      As part of NYU Tandon’s VIP program, I collaborated with Noel Joyce and Phil Caridi to develop <strong>Project Mjolnir</strong>, an open-source adaptive mountain bike designed for wheelchair users. The modular platform allows builders worldwide to manufacture most components locally, offering an upgradeable, cost-effective alternative to specialty adaptive bikes.
     </p>
     <p>
       The fully CNC-machined 7075‑T6 frame supports standard bike components and modular hardware, enabling conversion from rigid to full-suspension setups. Estimated production cost is less than €3,000, with parts and builds possible in under 4 weeks—drastically reducing the barriers posed by traditional adaptive cycles.
@@ -24,7 +24,7 @@ collection: portfolio
       <strong>My contributions focused on mechanical design optimization, integrating quick‑release mechanisms, and iterative prototyping</strong> of the frame and clamp systems. 
     </p>
     <p>
-      <strong>The quick‑release mechanisms I developed allow users to adjust the seat and footrest without tools</strong>—eliminating the need for hex keys and making the bike significantly more intuitive, accessible, and field-friendly.
+      <strong>The quick‑release mechanisms I developed allow users to adjust the seat and footrest without tools</strong> eliminating the need for hex keys and making the bike significantly more intuitive, accessible, and field-friendly.
     </p>
     <p>
       🔗 <a href="https://projectmjolnir.com/" target="_blank">Project Mjolnir website</a>  
