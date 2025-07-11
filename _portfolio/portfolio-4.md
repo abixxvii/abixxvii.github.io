@@ -5,10 +5,8 @@ excerpt: "Interned at AMTDC, IIT Madras in Chennai, India India
 collection: portfolio
 ---
 
-• Spearheaded a team of five to design and build an autonomous cotton crop harvester under the guidance of [Dr. Shital
-Chiddarwar](https://scholar.google.com.hk/citations?user=B9InqKQAAAAJ&hl=en)
 
+Interned at IIT Madras as a project lead, where I spearheaded a five-member team to design and prototype an autonomous cotton crop harvester under the mentorship of Dr. Shital Chiddarwar and AMTDC.
 
-• Drew inspiration from different rovers and modeled a robot by integrating mecanum wheels, placing a 6 DOF robot and improving the payload capacity.
-
+Drawing inspiration from planetary rovers, we developed a rugged robotic platform using mecanum wheels for omnidirectional mobility and integrated a 6-DOF robotic arm optimized for payload and reach. The system was designed to navigate uneven agricultural terrain and perform selective harvesting tasks with high precision.
 
