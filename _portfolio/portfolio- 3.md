@@ -1,17 +1,23 @@
 ---
 title: "Vehicle Quality and Engineering Intern @ KIA India Pvt Ltd"
-excerpt: "Interned in the vehicle quality control department and assembly shop
-<img src='/images/KIA logo.jpg' alt='KIA Logo' width='267' height='189'>"
+excerpt: "Worked in the vehicle quality control and assembly division during Kia Carens launch <img src='/images/KIA logo.jpg' alt='KIA Logo' height='20' style='vertical-align: middle;'>"
 collection: portfolio
 ---
 
-Interned at KIA India’s Vehicle Quality & Engineering division during the launch phase of the India-specific Kia Carens. Worked on the ground at a production facility with an annual output exceeding 300,000 vehicles, supporting high-priority quality initiatives across multiple models.
-
-I played a key role in resolving a critical tailgate water leakage issue on the Kia Carens, which was traced to geometric misalignments and weld-induced warpage. I conducted a structured failure analysis using 7 QC tools, SPC, and fishbone diagrams to pinpoint root causes. Based on these findings, I helped redesign the weatherstrip, modify the tailgate mounting location, optimize drip channel layout, and reduce spot welds while maintaining structural integrity. These changes reduced the defect rate from 62% to 0% and were validated through leak testing and statistical control measures.
-
-In parallel, I addressed a cowl fitment issue in the Kia Seltos, implementing design revisions that led to a 40% reduction in assembly time. I also contributed to improving First Time Yield by over 70% and enhancing OEE metrics by supporting root cause analysis, die corrections, and supplier process improvements.
-
-This internship served as my undergraduate capstone project and was recognized as the best in my cohort. Due to NDA constraints, specific images and test data cannot be publicly shared.
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 2em;">
+  <img src="/images/KIA logo.jpg" alt="KIA Logo" style="width: 160px; height: auto; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
+  <div>
+    <p>
+      Interned at KIA India’s Vehicle Quality & Engineering division during the launch phase of the India-specific Kia Carens. Worked on-site at a high-capacity plant producing over 300,000 vehicles annually, supporting model-specific quality improvements across multiple lines.
+    </p>
+    <p>
+      I played a key role in resolving a critical tailgate water leakage issue on the Kia Carens, traced to geometric misalignments and weld-induced warpage. Using structured failure analysis tools like SPC, 7 QC methods, and fishbone diagrams, I helped redesign the weatherstrip, shift tailgate mounting points, optimize the drip channel layout, and revise weld locations. These changes reduced the defect rate from 62% to 0% and were validated through leak and statistical testing.
+    </p>
+    <p>
+      I also addressed a cowl fitment issue in the Kia Seltos, reducing assembly time by 40% through design optimization. My work further improved First Time Yield by over 70% and contributed to higher OEE by supporting die corrections and supplier process improvements. This internship was recognized as the best capstone project in my cohort.
+    </p>
+  </div>
+</div>
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 1.5em; max-width: 800px; margin-left: auto; margin-right: auto;">
   <figure style="text-align: center; flex: 1;">
@@ -23,4 +29,3 @@ This internship served as my undergraduate capstone project and was recognized a
     <figcaption style="font-size: 0.9em; margin-top: 0.5em;">Kia Seltos — Cowl assembly optimization</figcaption>
   </figure>
 </div>
-
