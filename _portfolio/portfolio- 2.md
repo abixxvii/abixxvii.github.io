@@ -1,19 +1,24 @@
 ---
 title: "New Product Development Intern (R&D) @ CooperSurgical, Inc"
-date: 2024 August 
-excerpt: 
-  Interned at CSI's innovative R&D and NPD department in Summer '24. Juggled multiple projects and collaborated with exceptional engineers.
- <img src='/images/csi.jpg' alt='Shop' width='267' height='189'>
-  <br>
-
+date: 2024 August
+excerpt: "Interned at CSI’s innovative R&D division during Summer ’24 <img src='/images/csi.jpg' alt='CSI Logo' height='20' style='vertical-align: middle;'>"
 collection: portfolio
 ---
 
-Contributed to multiple FDA-compliant medical device projects within CooperSurgical’s cutting-edge R&D division. Collaborated with cross-functional teams to support system design, bench testing, and reliability validation per ISO standards.
-
-Most notably, I initiated and prototyped Auto Integra, a "fly-by-wire" ICSI micromanipulator add-on offering submicron precision, advanced segmentation, manual override, and seamless integration with existing IVF workflows. It has the potential to significantly enhance Assisted Reproductive Technology (ART), leading CSI to significantly invest in the project. 
-
-Other impactful work includes redesigning thermal and airflow modules, optimizing Neodymium magnet placement for hall-sensor detection, and developing test rigs for system-level V&V. I also authored several bench test protocols, supported usability studies, and contributed to packaging design for Class III medical devices. While media is restricted due to NDA, these projects gave me deep exposure to electromechanical systems and clinical-grade device development.
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 2em;">
+  <img src="/images/csi.jpg" alt="CSI Logo" style="width: 160px; height: auto; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
+  <div>
+    <p>
+      Contributed to multiple FDA-compliant medical device projects within CooperSurgical’s cutting-edge R&D and NPD division. Worked cross-functionally with design, systems, and manufacturing teams to support electromechanical development, reliability validation, and design-for-manufacturing.
+    </p>
+    <p>
+      Most notably, I initiated and prototyped <strong>Auto Integra</strong>—a "fly-by-wire" ICSI micromanipulator add-on that introduced submicron precision, advanced segmentation, manual override, and seamless integration into IVF workflows. The system was demoed at an internal summit and received continued investment for commercialization.
+    </p>
+    <p>
+      I also redesigned thermal and airflow modules, optimized Neodymium magnet placement for hall-sensor systems, and developed test rigs for system-level V&V. Authored bench protocols, contributed to usability studies, and supported packaging for Class III fertility devices. These experiences provided hands-on exposure to clinical-grade engineering and next-gen IVF technology.
+    </p>
+  </div>
+</div>
 
 [Know Art has a cool video about the tech used in Auto Integra](https://www.youtube.com/watch?v=0GbrgwghUbM)
 
@@ -34,9 +39,3 @@ Other impactful work includes redesigning thermal and airflow modules, optimizin
     <figcaption style="font-size: 0.9em; margin-top: 0.5em;">Working principle of hall sensor used in benchtop incubator</figcaption>
   </figure>
 </div>
-
-
-
-
-
-
