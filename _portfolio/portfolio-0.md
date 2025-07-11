@@ -36,7 +36,7 @@ Other impactful work includes redesigning thermal and airflow modules, optimizin
 </div>
 
 
-***The image shows RI Integra 3 (non-FBW / auto integra) micromanipulator.***
+
 
 
 
