@@ -13,4 +13,7 @@ In parallel, I addressed a cowl fitment issue in the Kia Seltos, implementing de
 
 This internship served as my undergraduate capstone project and was recognized as the best in my cohort. Due to NDA constraints, specific images and test data cannot be publicly shared.
 
-<br/><img src='/images/carens.jpg'>
+<div style="display: flex; gap: 10px; justify-content: center; margin-top: 1em;">
+  <img src="/images/carens.jpg" alt="Carens" width="300" height="200">
+  <img src="/images/Screenshot 2025-07-11 113809.png" alt="Screenshot" width="300" height="200">
+</div>
