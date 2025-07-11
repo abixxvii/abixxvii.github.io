@@ -1,9 +1,9 @@
 ---
-title: "Project Mjolnir — Open-Source Adaptive Mountain Bike"
+title: "Project Mjolnir — Open‑Source Adaptive Mountain Bike"
 date: 2024 March
 location: New York, US
 excerpt: >
-  Contributed to the design of an open-source modular mountain bike for wheelchair users
+  Collaborated on Project Mjolnir, an open‑source modular mountain bike for wheelchair users
   <img src='/images/Photo_1.jpg' alt='Mjolnir Frame' height='16' style='vertical-align: middle; margin-left: 6px;'>
 collection: portfolio
 ---
@@ -12,16 +12,23 @@ collection: portfolio
   <img src="/images/Photo_1.jpg" alt="Mjolnir Frame" style="width: 160px; height: auto; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
   <div>
     <p>
-      Collaborated with an international team including Noel Joyce and Phil Caridi to develop <strong>Project Mjolnir</strong>, an open-source, adaptive mountain bike designed for wheelchair users. The modular platform allows users to upgrade components as their needs evolve, balancing functionality with affordability.
+      As part of NYU Tandon’s VIP program, I collaborated with Noel Joyce and Phil Caridi to develop <strong>Project Mjolnir</strong>—an open-source adaptive mountain bike designed for wheelchair users. The modular platform allows builders worldwide to manufacture most components locally, offering an upgradeable, cost-effective alternative to specialty adaptive bikes.
     </p>
     <p>
-      My contributions focused on mechanical design optimization, quick-release mechanisms, and iterative improvements to the backrest assembly using 3D CAD and prototyping. Designed and compared multiple iterations to enhance ergonomics, manufacturability, and field serviceability.
+      The fully CNC-machined 7075‑T6 frame supports standard bike components and modular hardware, enabling conversion from rigid to full-suspension setups. Estimated production cost is less than €3,000, with parts and builds possible in under 4 weeks—drastically reducing the barriers posed by traditional adaptive cycles.
     </p>
     <p>
-      The project continues to evolve through field testing and community input. Design files and technical documentation are publicly available.
+      The prototype has earned recognition including the “Most Interesting Bike of the Year” by Singletrack World, and adoption spans across global builds in locations like Inner Mongolia, Reno, and Idaho. CAD files, build instructions, and suspension vs rigid variants are available open-source via GrabCAD and the project website.
     </p>
     <p>
-      🔗 <a href="https://github.com/abixxvii/MjolnirMTB" target="_blank">GitHub Repo</a>
+      <strong>My contributions focused on mechanical design optimization, integrating quick‑release mechanisms, and iterative prototyping</strong> of the frame and clamp systems. 
+    </p>
+    <p>
+      <strong>The quick‑release mechanisms I developed allow users to adjust the seat and footrest without tools</strong>—eliminating the need for hex keys and making the bike significantly more intuitive, accessible, and field-friendly.
+    </p>
+    <p>
+      🔗 <a href="https://projectmjolnir.com/" target="_blank">Project Mjolnir website</a>  
+      🔗 <a href="https://github.com/abixxvii/MjolnirMTB" target="_blank">GitHub repo</a>
     </p>
   </div>
 </div>
@@ -33,14 +40,14 @@ collection: portfolio
   </figure>
   <figure style="text-align: center; flex: 1; min-width: 280px;">
     <img src="/images/qrclamp.png" alt="Quick Release Clamp" style="width: 100%; max-height: 200px; object-fit: contain; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
-    <figcaption style="font-size: 0.85em; margin-top: 0.5em;">Quick-release clamp for modular adjustability</figcaption>
+    <figcaption style="font-size: 0.85em; margin-top: 0.5em;">Quick‑release clamp mechanism</figcaption>
   </figure>
   <figure style="text-align: center; flex: 1; min-width: 280px;">
-    <img src="/images/shaftcollar.png" alt="Backrest Clamp" style="width: 100%; max-height: 200px; object-fit: contain; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
-    <figcaption style="font-size: 0.85em; margin-top: 0.5em;">Upgraded shaft collar-based backrest clamp</figcaption>
+    <img src="/images/shaftcollar.png" alt="Backrest Clamp" style="width: 100%; max-height: 200px; object‑fit: contain; border‑radius: 8px; box‑shadow: 0 2px 6px rgba(0,0,0,0.15);">
+    <figcaption style="font-size: 0.85em; margin-top: 0.5em;">Shaft collar backrest clamp</figcaption>
   </figure>
   <figure style="text-align: center; flex: 1; min-width: 280px;">
-    <img src="/images/backrest.png" alt="Backrest Iterations" style="width: 100%; max-height: 200px; object-fit: contain; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
-    <figcaption style="font-size: 0.85em; margin-top: 0.5em;">Comparison of two backrest design iterations</figcaption>
+    <img src="/images/backrest.png" alt="Backrest Iterations" style="width: 100%; max-height: 200px; object‑fit: contain; border‑radius: 8px; box‑shadow: 0 2px 6px rgba(0,0,0,0.15);">
+    <figcaption style="font-size: 0.85em; margin-top: 0.5em;">Comparison of backrest iterations</figcaption>
   </figure>
 </div>
