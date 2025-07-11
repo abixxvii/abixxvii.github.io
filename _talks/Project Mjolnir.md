@@ -1,13 +1,11 @@
 ---
-title: "Mechanical Design Engineer @ Project Mjolnir, NYU"
-excerpt: |
-  Worked to integrate quick-release mechanisms for seatrest and footrest during Fall '23.
-  <img src='/images/Photo_1.jpg' alt='Shop' width='267' height='189'>
-  <br>
-
-collection: portfolio
+title: "EMG Controlled Prosthetic Arm"
+date: 2024 Dec
+location: New York, US
 ---
 
+  <img src='/images/Photo_1.jpg' alt='Shop' width='267' height='189'>
+  <br>
 
 Working with an international team along with Noel Joyce and Phil Caridi to re-design and optimize an adaptable mountain bike.
 
