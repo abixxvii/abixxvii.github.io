@@ -15,7 +15,7 @@ collection: portfolio
       As part of NYU Tandon’s VIP program, I collaborated with Noel Joyce and Phil Caridi to develop <strong>Project Mjolnir</strong>, an open-source adaptive mountain bike designed for wheelchair users. The modular platform allows builders worldwide to manufacture most components locally, offering an upgradeable, cost-effective alternative to specialty adaptive bikes.
     </p>
     <p>
-      The fully CNC-machined 7075‑T6 frame supports standard bike components and modular hardware, enabling conversion from rigid to full-suspension setups. Estimated production cost is less than €3,000, with parts and builds possible in under 4 weeks—drastically reducing the barriers posed by traditional adaptive cycles.
+      The fully CNC-machined 7075‑T6 frame supports standard bike components and modular hardware, enabling conversion from rigid to full-suspension setups. Estimated production cost is less than €3,000, with parts and builds possible in under 4 weeks drastically reducing the barriers posed by traditional adaptive cycles.
     </p>
     <p>
       The prototype has earned recognition including the “Most Interesting Bike of the Year” by Singletrack World, and adoption spans across global builds in locations like Inner Mongolia, Reno, and Idaho. CAD files, build instructions, and suspension vs rigid variants are available open-source via GrabCAD and the project website.
