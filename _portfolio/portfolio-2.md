@@ -5,13 +5,12 @@ excerpt: "Interned in the vehicle quality control department and assembly shop
 collection: portfolio
 ---
 
-- Interned in the vehicle quality control department in the plant with a capacity to produce over 300,000 cars annually.
-- Played a pivotal role in uplifting and maintaining the quality of Carens, a newly released model specific to Indian market.
-- Tackled D pillar & tailgate leak crisis of Carens (Indian specific vehicle) with failure analysis, RCA. 
-- Redesigned the weatherstrip, changed the mounting location of the tailgate, reduced the number of spot welds to prevent warpage while maintaining the structural integrity and redesigned the drip channel to ease the flow of water.
+Interned at KIA India’s Vehicle Quality & Engineering division during the launch phase of the India-specific Kia Carens. Worked on the ground at a production facility with an annual output exceeding 300,000 vehicles, supporting high-priority quality initiatives across multiple models.
 
-Awarded the best capstone project during my Bachelor's for my work done during the internship.
-  
-Cannot add images of the results or improvements due to NDA. 
+I played a key role in resolving a critical tailgate water leakage issue on the Kia Carens, which was traced to geometric misalignments and weld-induced warpage. I helped redesign the weatherstrip, modify the tailgate mounting location, optimize drip channel layout, and reduce spot welds while maintaining structural integrity. These changes reduced the defect rate from 62% to 0% and were validated through SPC and water leakage testing.
+
+In parallel, I addressed a cowl fitment issue in the Kia Seltos, implementing design revisions that led to a 40% reduction in assembly time. I also contributed to improving First Time Yield by over 70% and enhancing OEE metrics by supporting root cause analysis, die corrections, and supplier process improvements.
+
+This internship served as my undergraduate capstone project and was recognized as the best in my cohort. Due to NDA constraints, specific images and test data cannot be publicly shared.
 
 <br/><img src='/images/carens.jpg'>
