@@ -13,7 +13,7 @@ redirect_from:
 * **M.S. in Mechatronics and Robotics**, New York University (NYU), 2023–2025  
 * **B.E. in Mechanical Engineering**, Osmania University, 2019–2023  
 
-## Experience
+# Experience
 
 ### RPD, LLC  
 **Mechanical Engineering Intern**  
@@ -42,7 +42,7 @@ _Hyderabad, India — Jul 2022 – Aug 2022_
 - Evaluated RDF feed properties (moisture content, calorific value) to improve combustion efficiency, enhancing boiler thermal stability by 10%.  
 - Supported deployment of a drone-based deodorization system through field validation, route mapping, and odor monitoring, cutting complaints by 60%.
 
-## Technical Skills
+# Technical Skills
 
 - **Mechanical Design:** SolidWorks, CATIA V6, Siemens NX, Fusion 360; familiar with Creo & AutoCAD  
 - **Simulation & Analysis:** Ansys Workbench (FEA, CFD, Thermal), HyperWorks; GD&T (ASME Y14.5), Tolerance Analysis  
@@ -52,7 +52,7 @@ _Hyderabad, India — Jul 2022 – Aug 2022_
 - **Data Viz, PLM & Documentation:** SolidWorks PDM, 3DEXPERIENCE, Microsoft Office, GitHub, Jira, Tableau  
 - **Systems Integration:** Simulink; Electromechanical Systems, Optomechanical Systems, Control Algorithms
 
-## Selected Projects
+# Selected Projects
 
 - **Stair Traversal and Exploration Platform** (Spring & Fall 2024):  
   Led system integration and iterative development (8+ cycles) of NYU’s in-house bipedal humanoid robot with topology-optimized architecture.  
