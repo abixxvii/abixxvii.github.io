@@ -8,9 +8,11 @@ main:
     
   #- title: "Awards"
   #  url: /awards/
+  
+  - title: "Journey"
+    url: /cv/
+
         
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "Journey"
-    url: /cv/
