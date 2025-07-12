@@ -1,5 +1,5 @@
 ---
-title: "Vehicle Quality and Engineering Intern @ KIA India Pvt Ltd"
+title: "Vehicle Quality and Engineering Intern @ Kia India Pvt Ltd"
 excerpt: "Worked in the vehicle quality control and assembly division during Kia Carens launch <img src='/images/KIA logo.jpg' alt='KIA Logo' height='12' style='vertical-align: middle;'>"
 collection: portfolio
 ---
@@ -8,7 +8,7 @@ collection: portfolio
   <img src="/images/KIA logo.jpg" alt="KIA Logo" style="width: 160px; height: auto; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
   <div>
     <p>
-      Interned at KIA India’s Vehicle Quality & Engineering division during the launch phase of the India-specific Kia Carens. Worked on-site at a high-capacity plant producing over 300,000 vehicles annually, supporting model-specific quality improvements across multiple lines.
+      Interned at Kia India’s Vehicle Quality & Engineering division during the launch phase of the India-specific Kia Carens. Worked on-site at a high-capacity plant producing over 300,000 vehicles annually, supporting model-specific quality improvements across multiple lines.
     </p>
     <p>
       I played a key role in resolving a critical tailgate water leakage issue on the Kia Carens, traced to geometric misalignments and weld-induced warpage. Using structured failure analysis tools like SPC, 7 QC methods, and fishbone diagrams, I helped redesign the weatherstrip, shift tailgate mounting points, optimize the drip channel layout, and revise weld locations. These changes reduced the defect rate from 62% to 0% and were validated through leak and statistical testing.
