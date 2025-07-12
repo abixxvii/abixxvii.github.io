@@ -7,49 +7,53 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+# Education
 
-Education
-======
-* M.S. in Mechatronics and Robotics at NYU, 2023-2025
-* B.E. in Mechanical Engineering at Vasavi College of Engineering, 2019-2023
+* **M.S. in Mechatronics and Robotics**, New York University (NYU), 2023–2025  
+* **B.E. in Mechanical Engineering**, Osmania University, 2019–2023  
 
-Work experience
-======
-* Project Mjolnir, NYU October 2023
-* Design Engineer New York, US
-*  Working with an international team to optimize an adaptive mountain bike for wheelchair users.
-* Integrated quick release levers on backrest and footrest for ease of use
+## Experience
 
-* KIA India Pvt Ltd February 2023 – May 2023
-* Project Intern Ananthapur, India
-* Interned in the vehicle quality control department in the plant with a capacity to produce over 300,000 cars annually.
-* Worked along with industry leading engineers and researchers to bring down the defects per unit (DPU) below one(1).
-* Analyzed the defects on vehicles by implementing RCA and drafted an approach to reduce the defects.
-* Optimized KIA Carens by redesigning the tailgate and improving the structure of Body in White (BIW) in record time.
-* Reprogrammed the assembly bot
+### RPD, LLC  
+**Mechanical Engineering Intern**  
+_Easton, United States — Jan 2025 – May 2025_  
+- Led mechanical design and validation across 5+ client projects, owning cradle-to-grave development of high-volume, production-ready components using injection molding, CNC, and sheet metal.  
+- Designed test fixtures for V&V and a chip-on-glass LED illumination device for a biosafety cabinet, optimizing thermal dissipation by 78% and simplifying assembly to drive down COGS.  
+- Negotiated with U.S. contract manufacturers to avoid tariffs, cut launch timelines by 80%, and reduce cost by 25%; coordinated DFMA with vendors and prepared 2D drawings and BOMs.
 
-* RE Sustainability August 2022 – September 2022
-* Intern Hyderabad, India
-* Interned at the South India’s largest waste to energy conversion plant which produces 28 MW of RDF by consuming
-* 1,200 tons of waste per day
-* Developed an approach to utilise drones to spray 75 lts of liquid odorite to keep the stench in check
+### CooperSurgical, Inc  
+**New Product Development Intern (R&D)**  
+_Trumbull, United States — May 2024 – Aug 2024_  
+- Initiated and prototyped Auto Integra, an automated ICSI micromanipulator with ±2µm precision and CV-based embryo segmentation; improved conception rates by 126.2%.  
+- Engineered a magnet-Hall sensor system to detect IVF incubator lid position, optimizing Neodymium magnet placement to improve gas purge efficiency by 83%.  
+- Authored bench test protocols, led usability studies, and supported packaging for Class III IUDs in cross-functional FDA NDA-stage projects.
 
-* IIT Madras Research Park April 2022 – July 2022
-* Project Intern Chennai, India
-* Spearheaded a team of five to design and build an autonomous cotton crop harvester under the guidance of Dr. Shital
-Chiddarwar.
-* Modeled a robot by integrating mecanum wheels, placing a 6 DOF robot and improving the payload capacity
-  
-Skills
-======
-* Programming Languages: Python, C++, C, MATLAB, LATEX, Rust
-* CAD and Simulation Tools: SolidWorks, CATIA, Siemens NX, Fusion 360, Inventor, Ansys Fluent, Ansys Workbench,
-Lotus Shark
-* Machine Learning and Robotics: Numpy, OpenCV, ROS, MuJoCo, CoppeliaSim
+### Kia India Pvt. Ltd.  
+**Vehicle Quality & Engineering Intern**  
+_Ananthapur, India — Feb 2023 – May 2023_  
+- Eliminated critical water leakage in Kia Carens by redesigning weatherstrip geometry, tailgate alignment, and drip channels; reduced defect rate from 62% to 0.  
+- Reduced Kia Seltos cowl assembly time by 40% through interface redesign; validated through thermal chamber testing and failure analysis.  
+- Boosted First Time Yield by over 70% and improved OEE by resolving sealing variation via die correction and SPC-based process control.
 
-  
-Scholastic achievements
-======
-* Recipient of the best project award for my work at KIA India Pvt Ltd during my undergrad.
-* Recipient of merit based scholarship at NYU.
+### RE Sustainability Ltd.  
+**Engineering Intern**  
+_Hyderabad, India — Jul 2022 – Aug 2022_  
+- Evaluated RDF feed properties (moisture content, calorific value) to improve combustion efficiency, enhancing boiler thermal stability by 10%.  
+- Supported deployment of a drone-based deodorization system through field validation, route mapping, and odor monitoring, cutting complaints by 60%.
+
+## Selected Projects
+
+- **Stair Traversal and Exploration Platform** (Spring & Fall 2024):  
+  Led system integration and iterative development (8+ cycles) of NYU’s in-house bipedal humanoid robot with topology-optimized architecture.  
+ 
+
+- **EMG-Controlled Prosthetic Arm** (Fall 2024):  
+  Fabricated a tendon-driven prosthetic arm using EMG signals for muscle-based actuation; handled sensor calibration, signal processing, and system integration.
+
+- **Adaptive Mountain Bike**:  
+  Designed a quick-release system for tool-less, one-handed seat and footrest adjustments, enabling rapid fit customization for disabled riders.  
+
+
+- **Maze Solving Device**:  
+  Developed an autonomous robot using Raspberry Pi 4B, Arduino Uno, OpenCV, and BFS algorithm for real-time maze navigation.  
+
