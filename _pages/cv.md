@@ -7,6 +7,15 @@ redirect_from:
   - /resume
 ---
 
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
 # Education
 
 * **M.S. in Mechatronics and Robotics**, New York University (NYU), 2023–2025  
@@ -41,19 +50,26 @@ _Hyderabad, India — Jul 2022 – Aug 2022_
 - Evaluated RDF feed properties (moisture content, calorific value) to improve combustion efficiency, enhancing boiler thermal stability by 10%.  
 - Supported deployment of a drone-based deodorization system through field validation, route mapping, and odor monitoring, cutting complaints by 60%.
 
+## Technical Skills
+
+- **Mechanical Design:** SolidWorks, CATIA V6, Siemens NX, Fusion 360; familiar with Creo & AutoCAD  
+- **Simulation & Analysis:** Ansys Workbench (FEA, CFD, Thermal), HyperWorks; GD&T (ASME Y14.5), Tolerance Analysis  
+- **Manufacturing:** CNC/Machining, Injection Molding, Sheet Metal Fabrication, 3D Printing (FDM, SLA), Laser Cutting, Welding, Forging, Soldering  
+- **Testing & Validation:** Six Sigma, SPC, DOE, FMEA, Root Cause Analysis, DFMA, Minitab, V&V  
+- **Programming & Libraries:** Python, C++, C, MATLAB, SQL  
+- **Data Viz, PLM & Documentation:** SolidWorks PDM, 3DEXPERIENCE, Microsoft Office, GitHub, Jira, Tableau  
+- **Systems Integration:** Simulink; Electromechanical Systems, Optomechanical Systems, Control Algorithms
+
 ## Selected Projects
 
 - **Stair Traversal and Exploration Platform** (Spring & Fall 2024):  
   Led system integration and iterative development (8+ cycles) of NYU’s in-house bipedal humanoid robot with topology-optimized architecture.  
- 
 
 - **EMG-Controlled Prosthetic Arm** (Fall 2024):  
   Fabricated a tendon-driven prosthetic arm using EMG signals for muscle-based actuation; handled sensor calibration, signal processing, and system integration.
 
-- **Adaptive Mountain Bike**:  
+- **Adaptive Mountain Bike:**  
   Designed a quick-release system for tool-less, one-handed seat and footrest adjustments, enabling rapid fit customization for disabled riders.  
 
-
-- **Maze Solving Device**:  
+- **Maze Solving Device:**  
   Developed an autonomous robot using Raspberry Pi 4B, Arduino Uno, OpenCV, and BFS algorithm for real-time maze navigation.  
-
