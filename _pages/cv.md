@@ -42,6 +42,14 @@ _Hyderabad, India — Jul 2022 – Aug 2022_
 - Evaluated RDF feed properties (moisture content, calorific value) to improve combustion efficiency, enhancing boiler thermal stability by 10%.  
 - Supported deployment of a drone-based deodorization system through field validation, route mapping, and odor monitoring, cutting complaints by 60%.
 
+### IIT Madras Research Park  
+**Mechanical Design Intern**  
+_Chennai, India — Apr 2022 – Jul 2022_
+- Designed and modeled an autonomous cotton crop harvester for field deployment.  
+- Developed multiple end-effector concepts, including vacuum suction, roller plucker, and standard gripper mechanisms.  
+- Collaborated with a cross-functional team to fine-tune integration.
+
+
 # Technical Skills
 
 - **Mechanical Design:** SolidWorks, CATIA V6, Siemens NX, Fusion 360; familiar with Creo & AutoCAD  
