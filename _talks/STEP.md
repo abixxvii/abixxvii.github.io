@@ -1,10 +1,8 @@
----
-title: "Stair Traversal Exploration Platform"
-date: 2024 September to 2025 February
-location: New York, US
----
+# Stair Traversal Exploration Platform
+**Date:** September 2024 – February 2025  
+**Location:** New York, US
 
-<br/><img src='/images/new front1.png'>
+![Project STEP Front](./images/new%20front1.png)
 
 Project STEP began as a scrappy capstone project at NYU. We were a group of curious engineers trying to build humanoid robots that could walk. No frills, just a mission to make something move. Over time, it grew into a formal student team where both undergraduates and graduate students could contribute through a credit-bearing course or as volunteers.
 
@@ -16,53 +14,54 @@ I personally designed, built, and tested multiple robots that combined carbon fi
 
 I also introduced topology optimization and DFMA principles to improve performance and accelerate iteration. Today, STEP is not just a project but a living robotics platform that blends real-world engineering, collaboration, and student-led innovation.
 
+---
 
-<br/><img src='/images/inspo.png'>
-***Image highlights the beauty of human body and functionality. My aim was to get a bot which could mimic human locomotion***
+### Design Philosophy and Brainstorming
 
-<br/><img src='/images/brainstorm.png'>
-***Imageillustrates the brainstorming board***
+| ![Human Inspo](./images/inspo.png) | ![Brainstorm Board](./images/brainstorm.png) | ![Workflow](./images/workflow.png) |
+|:--:|:--:|:--:|
+| *Inspiration from human form* | *Initial concept brainstorms* | *Design and testing workflow* |
 
-<br/><img src='/images/workflow.png'>
-***Image highlights the workflow***
+---
 
-<br/><img src='/images/side new.png'>
+### Current Development
 
-<br/><img src='/images/front new.png'>
+| ![Side View](./images/side%20new.png) | ![Front View](./images/front%20new.png) |
+|:--:|:--:|
+| *Side view of 13 DOF bot (sheet metal, CNC & 3D print)* | *Front view of the same bot* |
 
-***Picture shows the 13 DOF bot which was designed as a combination of sheet metal fab, CNC machining and 3D printing***
+| ![Shin GD](./images/gendesign%20shin.png) | ![Thigh GD](./images/gendesign%20thigh.png) |
+|:--:|:--:|
+| *Generative design: Shin* | *Generative design: Thigh* |
 
-<br/><img src='/images/gendesign shin.png'>
+---
 
-<br/><img src='/images/gendesign thigh.png'>
-***Pictures show the generative design outcome for shin and thigh links***
+### Earlier Prototypes and Testing
 
+| ![13 DOF render](./images/Screenshot%202025-07-11%20182636.png) | ![6 DOF CFRP](./images/6dofcf.png) |
+|:--:|:--:|
+| *Planned fabrication for 13 DOF design* | *Prototype with CFRP and ABS links* |
 
-<br/><img src='/images/Screenshot 2025-07-11 182636.png'>
+---
 
+### Demonstration
 
-***Picture shows the 13 DOF bot which will be fabricated with sheet metal and CNC machining***
-
-
-<br/><img src='/images/6dofcf.png'>
-
-
-***Picture shows the 6 DOF bot which uses carbon fibre (CFRP) links and ABS (3D Printed) links***
-
-
-
+**10 DOF Bot Walking (Simulated with PPO):**  
 <video width="320" height="240" controls autoplay>
-  <source src='/images/10 dof walk.mp4' type='video/mp4'>
+  <source src="./images/10%20dof%20walk.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-***Video shows the control of the 10 DOF bot using PPO [URDF optimized for simulation]***
+---
 
+### Showcase
 
-<br/><img src='/images/6-8dof.jpeg'>
+| ![Showcased bot](./images/6-8dof.jpeg) |
+|:--:|
+| *Bot featured at NYU event* |
 
-***Picture shows the bot which was showcased during an event at NYU***
+---
 
-*Please note that current website is a work in progress. Stay tuned for updates on the project's progress!*
+*Please note that the project website is a work in progress. Stay tuned for updates.*
 
-In the meantime, Visit/follow the [Project STEP](https://ma82112.wixsite.com/nyuprojectstep)
+🔗 [Project STEP Website](https://ma82112.wixsite.com/nyuprojectstep)
