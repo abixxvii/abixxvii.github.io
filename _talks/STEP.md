@@ -17,6 +17,15 @@ I personally designed, built, and tested multiple robots that combined carbon fi
 I also introduced topology optimization and DFMA principles to improve performance and accelerate iteration. Today, STEP is not just a project but a living robotics platform that blends real-world engineering, collaboration, and student-led innovation.
 
 
+<br/><img src='/images/inspo.png'>
+***Image highlights the beauty of human body and functionality. My aim was to get a bot which could mimic human locomotion***
+
+<br/><img src='/images/brainstorm.png'>
+***Imageillustrates the brainstorming board***
+
+<br/><img src='/images/workflow.png'>
+***Image highlights the workflow***
+
 <br/><img src='/images/side new.png'>
 
 <br/><img src='/images/front new.png'>
