@@ -16,6 +16,19 @@ I personally designed, built, and tested multiple robots that combined carbon fi
 
 I also introduced topology optimization and DFMA principles to improve performance and accelerate iteration. Today, STEP is not just a project but a living robotics platform that blends real-world engineering, collaboration, and student-led innovation.
 
+
+<br/><img src='/images/side new.png'>
+
+<br/><img src='/images/front new.png'>
+
+***Picture shows the 13 DOF bot which was designed as a combination of sheet metal fab, CNC machining and 3D printing***
+
+<br/><img src='/images/gendesign shin.png'>
+
+<br/><img src='/images/gendesign thigh.png'>
+***Pictures show the generative design outcome for shin and thigh links***
+
+
 <br/><img src='/images/Screenshot 2025-07-11 182636.png'>
 
 
@@ -84,13 +97,6 @@ Miscellaneous items.
    
 <br/><img src='/images/concept.jpg'>
 
-<br/><img src='/images/pregen design.jpg'>
-
-***Picture shows the experimentation before generative design.***
-
-<br/><img src='/images/gendesign.jpg'>
-
-***Picture shows the link after subjecting to generative design***
 
 <br/><img src='/images/iter2.png'>
 
