@@ -50,7 +50,7 @@ The core design philosophy behind STEP is grounded in **bio-inspiration** and **
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
   <div style="flex: 1; text-align: center;">
     <img src='/images/side new.png' width='300'/>
-    <p><em>Side view</em></p>
+    <p><em>Isometric view</em></p>
   </div>
   <div style="flex: 1; text-align: center;">
     <img src='/images/front new.png' width='300'/>
