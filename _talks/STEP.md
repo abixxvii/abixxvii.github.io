@@ -120,7 +120,7 @@ The core design philosophy behind STEP is grounded in **bio-inspiration** and **
 
 ## Current Status
 
-We are currently **fabricating the latest generation of bipeds**, including a finalized 13 DOF robot and an upgraded 12 DOF variant with modular joints and better ankle articulation. These are designed to be **easily manufacturable**, **research-adaptable**, and **control-system ready**.
+Currently **fabricating the latest generation of bipeds**, including a finalized 13 DOF robot and an upgraded 12 DOF variant with modular joints and better ankle articulation. These are designed to be **easily manufacturable**, **research-adaptable**, and **control-system ready**.
 
 ---
 
