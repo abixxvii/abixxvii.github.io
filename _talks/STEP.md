@@ -23,7 +23,7 @@ I also introduced topology optimization and DFMA principles to improve performan
   <img src='/images/inspo.png' width='400'/>
 </div>
 
-*This image highlights the elegance and complexity of the human body. My goal was to design a biped that could realistically mimic human locomotion — not just functionally, but in its proportions, modularity, and physical expression.*
+*This image highlights the elegance and complexity of the human body. My goal was to design a biped that could realistically mimic human locomotion.*
 
 The core design philosophy behind STEP is grounded in **bio-inspiration** and **iterative prototyping**.
 ---
