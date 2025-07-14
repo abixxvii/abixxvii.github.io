@@ -17,44 +17,114 @@ I personally designed, built, and tested multiple robots that combined carbon fi
 I also introduced topology optimization and DFMA principles to improve performance and accelerate iteration. Today, STEP is not just a project but a living robotics platform that blends real-world engineering, collaboration, and student-led innovation.
 
 
-<img src='/images/inspo.png' width='400'/>
-*This image highlights the elegance and complexity of the human body. My goal was to design a biped that could realistically mimic human locomotion.*
+## Design Philosophy & Inspiration
 
-<img src='/images/brainstorm.png' width='400'/>
-*Image shows the team’s brainstorming board — capturing early design concepts and technical ideas.*
+<div style="text-align: center;">
+  <img src='/images/inspo.png' width='400'/>
+</div>
 
-<img src='/images/workflow.png' width='400'/>
-*Workflow diagram illustrating the design, prototyping, and testing pipeline.*
+*This image highlights the elegance and complexity of the human body. My goal was to design a biped that could realistically mimic human locomotion — not just functionally, but in its proportions, modularity, and physical expression.*
 
-<img src='/images/side new.png' width='400'/>
-<img src='/images/front new.png' width='400'/>
-*These images show the 13 DOF bot, designed using a hybrid of sheet metal fabrication, CNC machining, and 3D printing.*
+The core design philosophy behind STEP is grounded in **bio-inspiration**, **iterative prototyping**, and **student-led innovation**. Our aim has been to build robots that balance manufacturability with realism — a testbed for control algorithms, mechanical experimentation, and multi-disciplinary learning.
 
-<img src='/images/gendesign shin.png' width='400'/>
-<img src='/images/gendesign thigh.png' width='400'/>
-*Generative design outcomes for the shin and thigh links — optimized for strength and weight.*
+---
 
-<img src='/images/Screenshot 2025-07-11 182636.png' width='400'/>
-*CAD preview of the 13 DOF bot ready for fabrication using CNC and sheet metal.*
+## Early Development & Brainstorming
 
-<img src='/images/6dofcf.png' width='400'/>
-*The 6 DOF bot, built with carbon fiber-reinforced polymer (CFRP) links and ABS 3D-printed components.*
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <div style="flex: 1; text-align: center;">
+    <img src='/images/brainstorm.png' width='300'/>
+    <p><em>Team brainstorming board: design sketches and ideas</em></p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src='/images/workflow.png' width='300'/>
+    <p><em>Development workflow: from CAD to prototype</em></p>
+  </div>
+</div>
+
+---
+
+## Mechanical Development
+
+### 13 DOF Robot Design
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <div style="flex: 1; text-align: center;">
+    <img src='/images/side new.png' width='300'/>
+    <p><em>Side view</em></p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src='/images/front new.png' width='300'/>
+    <p><em>Front view</em></p>
+  </div>
+</div>
+
+*This bot was designed using a hybrid approach: sheet metal fabrication for structural components, CNC machining for precision parts, and 3D printing for rapid prototyping.*
+
+---
+
+### Generative Design for Weight Optimization
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <div style="flex: 1; text-align: center;">
+    <img src='/images/gendesign shin.png' width='300'/>
+    <p><em>Generative design: Shin link</em></p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src='/images/gendesign thigh.png' width='300'/>
+    <p><em>Generative design: Thigh link</em></p>
+  </div>
+</div>
+
+---
+
+### CAD & Fabrication Prep
+
+<div style="text-align: center;">
+  <img src='/images/Screenshot 2025-07-11 182636.png' width='400'/>
+</div>
+
+*CAD model showing the 13 DOF robot prepared for fabrication.*
+
+---
+
+## Previous Versions
+
+<div style="text-align: center;">
+  <img src='/images/6dofcf.png' width='400'/>
+</div>
+
+*The 6 DOF bot used carbon fiber-reinforced links and ABS 3D-printed parts. It served as an early prototype that informed later design choices.*
+
+---
+
+## Control Development
 
 <video width="400" controls autoplay>
   <source src='/images/10 dof walk.mp4' type='video/mp4'>
   Your browser does not support the video tag.
 </video>
-*This video demonstrates the 10 DOF bot walking using PPO-based control. The simulation was optimized via URDF modeling.*
 
-<img src='/images/6-8dof.jpeg' width='400'/>
-*Photo of the robot showcased at an NYU event.*
+*Simulation of the 10 DOF bot walking using PPO (Proximal Policy Optimization). The URDF model was optimized specifically for sim-to-real transfer.*
 
 ---
 
-### **Current Status**
-Currently fabricating the latest generation of the bipeds, including a 13 DOF model and an upgraded 12 DOF variant. These designs prioritize modularity, ease of assembly, and real-world research applicability.
+## Public Showcase
+
+<div style="text-align: center;">
+  <img src='/images/6-8dof.jpeg' width='400'/>
+</div>
+
+*The robot showcased during an NYU event, highlighting both its design and control capabilities.*
+
 ---
 
-*Please note: this website is still under construction. Stay tuned for more updates as Project STEP continues to grow.*
+## Current Status
 
-In the meantime, visit/follow the project at [Project STEP](https://ma82112.wixsite.com/nyuprojectstep).
+We are currently **fabricating the latest generation of bipeds**, including a finalized 13 DOF robot and an upgraded 12 DOF variant with modular joints and better ankle articulation. These are designed to be **easily manufacturable**, **research-adaptable**, and **control-system ready**.
+
+---
+
+*This site is still a work in progress. Stay tuned for more updates as Project STEP continues to grow.*
+
+In the meantime, check out [Project STEP](https://ma82112.wixsite.com/nyuprojectstep) for more!
