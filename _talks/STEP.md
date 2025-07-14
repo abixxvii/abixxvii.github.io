@@ -4,7 +4,7 @@ date: 2024 September to 2025 February
 location: New York, US
 ---
 
-<br/><img src='/images/Prototype5 v138.png'>
+<br/><img src='/images/new front.png'>
 
 Project STEP began as a scrappy capstone project at NYU. We were a group of curious engineers trying to build humanoid robots that could walk. No frills, just a mission to make something move. Over time, it grew into a formal student team where both undergraduates and graduate students could contribute through a credit-bearing course or as volunteers.
 
