@@ -52,8 +52,7 @@ I also introduced topology optimization and DFMA principles to improve performan
 ---
 
 ### **Current Status**
-We are currently fabricating the latest generation of our bipeds, including a 13 DOF model and an upgraded 12 DOF variant. These designs prioritize modularity, ease of assembly, and real-world research applicability — bringing us closer to a system that mirrors the complexity of human locomotion.
-
+Currently fabricating the latest generation of the bipeds, including a 13 DOF model and an upgraded 12 DOF variant. These designs prioritize modularity, ease of assembly, and real-world research applicability.
 ---
 
 *Please note: this website is still under construction. Stay tuned for more updates as Project STEP continues to grow.*
