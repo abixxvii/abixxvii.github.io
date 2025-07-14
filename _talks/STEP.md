@@ -25,8 +25,7 @@ I also introduced topology optimization and DFMA principles to improve performan
 
 *This image highlights the elegance and complexity of the human body. My goal was to design a biped that could realistically mimic human locomotion — not just functionally, but in its proportions, modularity, and physical expression.*
 
-The core design philosophy behind STEP is grounded in **bio-inspiration**, **iterative prototyping**, and **student-led innovation**. Our aim has been to build robots that balance manufacturability with realism — a testbed for control algorithms, mechanical experimentation, and multi-disciplinary learning.
-
+The core design philosophy behind STEP is grounded in **bio-inspiration** and **iterative prototyping**.
 ---
 
 ## Early Development & Brainstorming
