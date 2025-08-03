@@ -11,7 +11,7 @@ minimal_mistakes_skin: "dark"
 title: "Abishai's Personal Page"
 title_separator: "-"
 name: &name "Aditya Abishai Pedapati"
-description: &description "Second-year Master's student majoring in Mechatronics and Robotics"
+description: &description "Hands-on polyglot solving multidisciplinary technical problems"
 url: https://abixxvii.github.io # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "abixxvii.github.io"
@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name: "Aditya Abishai Pedapati"
-  avatar: "propic1.jpg"
+  avatar: "prop.jpg"
   bio: "MS in Mechatronics and Robotics at NYU"
   location: "New York City"
   employer: "MechE Intern at RPD, LLC"
