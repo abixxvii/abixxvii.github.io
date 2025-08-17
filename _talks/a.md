@@ -29,15 +29,15 @@ I designed a control arm inspired by outdoor ATV applications, where durability 
 
 ## Results
 
-**CFRP**
+***CFRP***
  Achieved the best performance, combining lowest mass, high stiffness, and safe stress levels.
 
 
-**Aluminum 6061-T6**
+***Aluminum 6061-T6***
  Delivered a balanced outcome, with good weight savings but higher deflection than CFRP.
 
 
-**Steel DP600 **
+***Steel DP600***
 Proved structurally safe with the least deflection, but at the cost of being the heaviest and least weight-efficient.
 
 ### My Take:
