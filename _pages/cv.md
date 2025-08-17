@@ -18,11 +18,11 @@ redirect_from:
 ### RPD, LLC  
 **Mechanical Engineering Intern**  
 _Easton, United States — Jan 2025 – May 2025_  
--Led mechanical design and validation for 5+ clients driving NPI from concept to production release for high-volume
- manufacturing (50K–100K+ units annually) using injection molding, CNC machining, and sheet metal fabrication. 
-- Designed test fixtures for V&V and a chip-on-glass LED illumination device for a biosafety cabinet, optimizing thermal dissipation by 78% and simplifying assembly to drive down COGS.  
--Negotiated and partnered with U.S. manufacturers to cut product launch timelines by 80% and lower costs by 25%,
- coordinated DFMA with vendors to ensure rapid iteration; prepared 2D drawings and BOMs to support manufacturing.
+
+- Led mechanical design and validation for 5+ clients, driving new product introduction (NPI) from concept to production release for high-volume manufacturing (50K–100K+ units annually) using injection molding, CNC machining, and sheet metal fabrication.  
+- Designed test fixtures for V&V and a chip-on-glass LED illumination device for a biosafety cabinet, optimizing thermal dissipation by 78% and simplifying assembly to reduce COGS.  
+- Negotiated and partnered with U.S. manufacturers to cut product launch timelines by 80% and lower costs by 25%; coordinated DFMA with vendors to ensure rapid iteration, and prepared 2D drawings and BOMs to support manufacturing.  
+
 
 ### CooperSurgical, Inc  
 **New Product Development Intern (R&D)**  
