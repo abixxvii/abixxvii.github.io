@@ -89,11 +89,13 @@ The core design philosophy behind STEP is grounded in **bio-inspiration** and **
 
 ## Previous Versions
 
-<div style="text-align: center;">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; justify-items: center; max-width: 900px; margin: auto;">
   <img src='/images/6dofcf.png' width='400'/>
+  <img src='/images/drei.png' width='400'/>
+  <img src='/images/dos.png' width='400'/>
+  <img src='/images/superbeam.png' width='400'/>
 </div>
 
-*The 6 DOF bot used carbon fiber-reinforced links and ABS 3D-printed parts. It served as an early prototype that informed later design choices.*
 
 ---
 
