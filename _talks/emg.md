@@ -94,4 +94,6 @@ Using different types of servos (with varying power requirements) resulted in a 
 
 So, I took a simpler approach by using dynamic thresholding and servo control logic instead of relying on ML models. This approach worked perfectly for what I wanted to achieve—real-time control of a robotic hand based on muscle activity
 
+<br/><img src='/images/eeg.png'>
+
 More information can be found by visiting [my repo](https://github.com/abixxvii/EMG-controlled-prosthetic-arm-)
