@@ -7,10 +7,7 @@ location: India
 ### Overview
 I designed a control arm inspired by outdoor ATV applications, where durability and stiffness are critical. Since control arms in vehicles must be very stiff and not act like springs, I set the performance expectation to deflections in the tenth-of-a-millimeter range.
 
-<video width="320" height="240" controls autoplay>
-  <source src='/images/grasp.mp4' type='video/mp4'>
-  Your browser does not support the video tag.
-</video>
+ <br/><img src='/images/cd.png'>
 
 
 ### Methodology
