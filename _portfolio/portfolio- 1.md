@@ -3,9 +3,23 @@ title: "Mechanical Engineering Intern @ RPD, LLC"
 date: 2025 January 
 collection : portfolio
 ---
-Interned at RPD, LLC, a fast-paced product engineering supporting clients like [Medtronic](https://www.medtronic.com/en-us/index.html), [CooperSurgical](https://www.coopersurgical.com/), [SPI](https://www.spi-co.com/), [Cleanflame](https://www.cleanflameus.com/) and many more. I led mechanical design and validation efforts across 5+ client programs, owning cradle-to-grave development of both low- and high-volume production components.
+Non-Disclosure Agreement: I’ve included only shareable highlights; proprietary info stays under wraps.
 
-My work spanned CNC machining, 3D printing, and extensive sheet metal fabrication including bending, stamping, and weldments, as well as injection molding for complex geometries. I designed custom test fixtures for V&V, and developed a chip-on-glass LED module for biosafety cabinet applications. This design improved thermal dissipation by 78% and simplified assembly to enable cost-efficient scaling.
+I interned at RPD, LLC, a stealth-based engineering consulting firm supporting top-tier clients across defense, medtech, consumer, and B2B manufacturing industries, including Medtronic, CooperSurgical, SPI, and Cleanflame, as well as multiple startups. Over the course of my internship, I had the opportunity to own mechanical design and validation efforts for diverse client programs, driving products from ideation through to high-volume production.
 
-I also conducted failure analysis on SLA 3D printers, identified root causes of recurring defects, and implemented countermeasures that minimized downtime and saved operational costs. In parallel, I worked with U.S. contract manufacturers to avoid tariffs, accelerate launch timelines by 80%, and reduce part costs by 25% through rapid DFMA iteration and close supplier coordination.
+**Key Contributions**
+
+Led design and validation for 5+ client programs, supporting NPI from concept to production (50K–100K+ units annually).
+
+Developed a chip-on-glass LED illumination module for biosafety cabinets. Achieved 78% improvement in thermal dissipation and simplified assembly, enabling cost-efficient scaling.
+
+Designed and fabricated test fixtures for V&V, reducing setup time and ensuring repeatable testing.
+
+Engineered a new lift mechanism for a jacuzzi system capable of reliable operation in harsh, snowy conditions.
+
+Conducted failure analysis on SLA 3D printers, identified recurring defect root causes, and implemented countermeasures that minimized downtime and saved significant prototyping costs.
+
+Negotiated with U.S. manufacturers to avoid tariffs, cutting launch timelines by 80% and reducing part costs by 25% through rapid DFMA iterations and supplier coordination.
+
+Created detailed 2D prints with GD&T, supported design reviews, DFMA reviews, supplier meetings, and stakeholder presentations.
 
