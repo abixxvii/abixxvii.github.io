@@ -1,5 +1,5 @@
 ---
-title: "New Product Development Intern (R&D) @ CooperSurgical, Inc"
+title: "2. New Product Development Intern (R&D) @ CooperSurgical, Inc"
 excerpt: "Interned at CSI’s innovative R&D division during Summer ’24"
 collection: portfolio
 ---
