@@ -1,5 +1,5 @@
 ---
-title: "Vehicle Quality and Engineering Intern @ Kia India Pvt Ltd"
+title: "3. Vehicle Quality and Engineering Intern @ Kia India Pvt Ltd"
 excerpt: 'Worked in the vehicle quality control and assembly division during Kia Carens launch <img src="/images/KIA logo.jpg" alt="KIA Logo" style="height: 80px; width: auto; vertical-align: middle;">'
 collection: portfolio
 ---
