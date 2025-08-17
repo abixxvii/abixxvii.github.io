@@ -10,7 +10,7 @@ collection: portfolio
     <p><strong>Non-Disclosure:</strong> Only shareable highlights included; proprietary details remain confidential.</p>
     <p>
       CooperSurgical is a leading medtech company with a strong pipeline of fertility and women’s health products.  
-      During my internship, I contributed to FDA Class II/III device programs across product design, process development, and manufacturing readiness — collaborating with engineering, industrial design, and clinical teams.
+      During my internship, I contributed to FDA Class II/III device programs across product design, process development, and manufacturing readiness collaborating with engineering, industrial design, and clinical teams.
     </p>
   </div>
 </div>
