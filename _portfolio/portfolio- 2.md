@@ -19,20 +19,19 @@ collection: portfolio
 <h4>Key Contributions</h4>
 <ul>
   <li>
-    Initiated and prototyped <strong>Auto Integra</strong>, a first-of-its-kind fly-by-wire ICSI micromanipulator add-on delivering submicron precision, segmentation, manual override, and seamless IVF workflow integration.  
-    Demoed internally, funded for continuation, and advanced toward preclinical trials (validated on Volvox and mouse oocytes).
+    Initiated and prototyped Auto Integra, a first-of-its-kind FBW ICSI micromanipulator add-on that introduced submicron precision, segmentation, manual override, and seamless IVF workflow integration. The system was demoed at an internal summit, secured continued investment, and advanced toward preclinical trials validated on Volvox and mouse oocytes.
   </li>
   <li>
-    Designed and validated subsystems — including incubator lids with integrated neodymium magnets and hall-sensor proximity systems, thermal/airflow module redesigns, and accelerated-aging rigs — ensuring FDA quality compliance.
+    Designed and validated subsystems including incubator lids with integrated neodymium magnets and hall sensor proximity systems, thermal and airflow module redesigns, and accelerated aging rigs to ensure mechanisms met rigorous FDA quality requirements.
   </li>
   <li>
-    Conducted bench testing and usability studies, performed bubble tests for Class III IUDs, and supported packaging verification for fertility devices.
+    Conducted bench testing and usability studies, performed bubble tests for Class III IUDs, and supported packaging verification for Class III fertility devices.
   </li>
   <li>
-    Built prototypes for internal tools and incubator subsystems through rapid prototyping and material selection.
+    Built prototypes for new products and internal tools, including rapid prototyping and material selection for incubator subsystems.
   </li>
   <li>
-    Collaborated cross-functionally to accelerate product development, scale internal tools, and prepare for upcoming launches.
+    Collaborated with cross-functional teams to accelerate product development, scale internal tools, and support readiness for upcoming product launches.
   </li>
 </ul>
 
