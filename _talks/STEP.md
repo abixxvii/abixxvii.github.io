@@ -89,11 +89,11 @@ The core design philosophy behind STEP is grounded in **bio-inspiration** and **
 
 ## Previous Versions
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; justify-items: center; max-width: 900px; margin: auto;">
-  <img src='/images/6dofcf.png' style="width: 100%; max-width: 400px; border-radius: 8px;"/>
-  <img src='/images/drei.png' style="width: 100%; max-width: 400px; border-radius: 8px;"/>
-  <img src='/images/dos.png' style="width: 100%; max-width: 400px; border-radius: 8px;"/>
-  <img src='/images/superbeam.png' style="width: 100%; max-width: 400px; border-radius: 8px;"/>
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; justify-items: center; max-width: 700px; margin: auto;">
+  <img src='/images/6dofcf.png' style="width: 100%; max-width: 250px; border-radius: 6px;"/>
+  <img src='/images/drei.png' style="width: 100%; max-width: 250px; border-radius: 6px;"/>
+  <img src='/images/dos.png' style="width: 100%; max-width: 250px; border-radius: 6px;"/>
+  <img src='/images/superbeam.png' style="width: 100%; max-width: 250px; border-radius: 6px;"/>
 </div>
 
 
