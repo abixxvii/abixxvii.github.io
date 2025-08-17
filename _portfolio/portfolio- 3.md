@@ -34,4 +34,16 @@ Boosted First Time Yield by over 70% and contributed to higher OEE by driving di
     <img src="/images/Screenshot 2025-07-11 113809.png" alt="Kia Seltos X-Line" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
     <figcaption style="font-size: 0.9em; margin-top: 0.5em;">Kia Seltos — Cowl assembly optimization</figcaption>
   </figure>
+    <figure style="text-align: center; flex: 1;">
+    <img src="/images/biw.png" alt="Carens's Body in White" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
+    <figcaption style="font-size: 0.9em; margin-top: 0.5em;">Body in White of Carens</figcaption>
+  <figure style="text-align: center; flex: 1;">
+    <img src="/images/cowl.png" alt="cowl" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
+    <figcaption style="font-size: 0.9em; margin-top: 0.5em;">Cowl assembly of Seltos</figcaption>
+  <figure style="text-align: center; flex: 1;">
+    <img src="/images/rail outer.png" alt="rail outer" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
+    <figcaption style="font-size: 0.9em; margin-top: 0.5em;">Outer Rail of Carens - Protects passengers in the event of a rollover</figcaption>
+  </figure>
+  </figure>
+  </figure>
 </div>
