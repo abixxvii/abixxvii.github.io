@@ -1,5 +1,5 @@
 ---
-title: "4. Engineering Intern @ RE Sustainability"
+title: "Engineering Intern @ RE Sustainability"
 excerpt: "Interned at a 28 MW Waste-to-Energy plant in Hyderabad, India <img src='/images/ramky.png' alt='RE Sustainability Logo' height='20' style='vertical-align: middle;'>"
 collection: portfolio
 ---
