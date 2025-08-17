@@ -47,10 +47,14 @@ Boosted First Time Yield by over 70% and contributed to higher OEE by driving di
     <figcaption style="font-size: 0.9em; margin-top: 0.5em;">Cowl assembly of Seltos</figcaption>
   </figure>
 
-  <figure style="text-align: center; flex: 1; min-width: 250px; max-width: 300px;">
-    <img src="/images/rail outer.png" alt="Rail outer" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
-    <figcaption style="font-size: 0.9em; margin-top: 0.5em;">Outer Rail of Carens — rollover protection</figcaption>
-  </figure>
+<figure style="text-align: center; flex: 1; min-width: 250px; max-width: 300px;">
+  <img src="/images/rail outer.png" alt="Rail outer"
+       style="width: 100%; height: auto; object-fit: contain; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15); background: #f9f9f9;">
+  <figcaption style="font-size: 0.9em; margin-top: 0.5em;">
+    Outer Rail of Carens — rollover protection
+  </figcaption>
+</figure>
+
 
 
 
