@@ -42,7 +42,7 @@ collection: portfolio
   </figure>
   <figure style="text-align: center; flex: 1; min-width: 250px;">
     <img src="/images/csi.png" alt="Product Lineup" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
-    <figcaption style="font-size: 0.9em; margin-top: 0.5em;">Class III biosafety cabinet under development</figcaption>
+    <figcaption style="font-size: 0.9em; margin-top: 0.5em;">Product Lineup</figcaption>
   </figure>
   <figure style="text-align: center; flex: 1; min-width: 250px;">
     <img src="/images/hall.png" alt="Hall sensor working principle diagram" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
