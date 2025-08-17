@@ -26,7 +26,6 @@ I interned at RPD, LLC, a stealth-based engineering consulting firm supporting t
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 1em; max-width: 800px; margin-left: auto; margin-right: auto;">
   <figure style="text-align: center; flex: 1;">
     <img src="/images/rpd.png" alt="Hall Sensor Working" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
-    <figcaption style="font-size: 0.9em; margin-top: 0.5em;">Hall Sensor Working</figcaption>
   </figure>
 </div>
 
