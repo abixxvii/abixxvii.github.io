@@ -25,25 +25,33 @@ Boosted First Time Yield by over 70% and contributed to higher OEE by driving di
   </div>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 20px; margin-top: 1.5em; max-width: 800px; margin-left: auto; margin-right: auto;">
-  <figure style="text-align: center; flex: 1;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 1.5em; max-width: 1000px; margin-left: auto; margin-right: auto;">
+  
+  <figure style="text-align: center; flex: 1; min-width: 250px; max-width: 300px;">
     <img src="/images/carens.jpg" alt="Kia Carens" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
     <figcaption style="font-size: 0.9em; margin-top: 0.5em;">Kia Carens — India-specific model</figcaption>
   </figure>
-  <figure style="text-align: center; flex: 1;">
+
+  <figure style="text-align: center; flex: 1; min-width: 250px; max-width: 300px;">
     <img src="/images/Screenshot 2025-07-11 113809.png" alt="Kia Seltos X-Line" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
     <figcaption style="font-size: 0.9em; margin-top: 0.5em;">Kia Seltos — Cowl assembly optimization</figcaption>
   </figure>
-    <figure style="text-align: center; flex: 1;">
-    <img src="/images/biw.png" alt="Carens's Body in White" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
+
+  <figure style="text-align: center; flex: 1; min-width: 250px; max-width: 300px;">
+    <img src="/images/biw.png" alt="Carens Body in White" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
     <figcaption style="font-size: 0.9em; margin-top: 0.5em;">Body in White of Carens</figcaption>
-  <figure style="text-align: center; flex: 1;">
-    <img src="/images/cowl.png" alt="cowl" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
+  </figure>
+
+  <figure style="text-align: center; flex: 1; min-width: 250px; max-width: 300px;">
+    <img src="/images/cowl.png" alt="Cowl" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
     <figcaption style="font-size: 0.9em; margin-top: 0.5em;">Cowl assembly of Seltos</figcaption>
-  <figure style="text-align: center; flex: 1;">
-    <img src="/images/rail outer.png" alt="rail outer" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
-    <figcaption style="font-size: 0.9em; margin-top: 0.5em;">Outer Rail of Carens - Protects passengers in the event of a rollover</figcaption>
   </figure>
+
+  <figure style="text-align: center; flex: 1; min-width: 250px; max-width: 300px;">
+    <img src="/images/rail outer.png" alt="Rail outer" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
+    <figcaption style="font-size: 0.9em; margin-top: 0.5em;">Outer Rail of Carens — rollover protection</figcaption>
   </figure>
-  </figure>
+
+
+
 </div>
