@@ -8,10 +8,15 @@ collection: portfolio
   <img src="/images/ramky.png" alt="RE Sustainability Logo" style="width: 160px; height: auto; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
   <div>
     <p>
-      Interned at RE Sustainability, South India’s largest waste-to-energy conversion facility, which processes over 1,200 tons of municipal solid waste per day to generate 28 MW of power using Refuse Derived Fuel (RDF).
+      Non-Disclosure Agreement: I’ve included only shareable highlights; proprietary info stays under wraps.
     </p>
-    <p>
-      I contributed to improving thermal stability and combustion efficiency by evaluating RDF feed properties such as moisture content and calorific value. Additionally, I developed and field-tested a drone-based deodorization system that deployed 75 liters of liquid odorite across targeted zones, helping reduce odor complaints and improve overall site conditions.
+    <p>Interned at South India’s largest waste-to-energy conversion facility, processing over 1,200 tons of municipal solid waste per day to generate 28 MW of power using Refuse Derived Fuel (RDF).
+    </p>
+      Optimized combustion efficiency and thermal stability by evaluating RDF feedstock properties including moisture content and calorific value, providing actionable insights to operations.
+    </p>
+    <p>Designed and deployed a drone-based deodorization system capable of dispersing 75 liters of liquid odorite across targeted zones, mitigating odor complaints and improving environmental KPIs related to site conditions.
+    </p>
+    <p>Partnered with cross-functional plant operations teams to analyze performance data, recommend process improvements, and enhance energy conversion reliability.
     </p>
   </div>
 </div>
