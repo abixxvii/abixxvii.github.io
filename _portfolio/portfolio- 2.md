@@ -48,7 +48,7 @@ collection: portfolio
     <figcaption style="font-size: 0.9em; margin-top: 0.5em;">ALLY - Uterine Positioning System</figcaption>
   </figure>
     <figure style="text-align: center; flex: 1; min-width: 250px;">
-    <img src="/images/riwitnesspng" alt="RI witness" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
+    <img src="/images/riwitness.png" alt="RI witness" style="height: 200px; width: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
     <figcaption style="font-size: 0.9em; margin-top: 0.5em;">RI Witness</figcaption>
   </figure>
   <figure style="text-align: center; flex: 1; min-width: 250px;">
