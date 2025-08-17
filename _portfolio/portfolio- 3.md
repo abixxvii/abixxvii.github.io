@@ -8,13 +8,19 @@ collection: portfolio
   <img src="/images/KIA logo.jpg" alt="KIA Logo" style="width: 160px; height: auto; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
   <div>
     <p>
-      Interned at Kia India’s Vehicle Quality & Engineering division during the launch phase of the India-specific Kia Carens. Worked on-site at a high-capacity plant producing over 300,000 vehicles annually, supporting model-specific quality improvements across multiple lines.
+    Non-Disclosure Agreement: I’ve included only shareable highlights; proprietary info stays under wraps.
     </p>
     <p>
-      I played a key role in resolving a critical tailgate water leakage issue on the Kia Carens, traced to geometric misalignments and weld-induced warpage. Using structured failure analysis tools like SPC, 7 QC methods, and fishbone diagrams, I helped redesign the weatherstrip, shift tailgate mounting points, optimize the drip channel layout, and revise weld locations. These changes reduced the defect rate from 62% to 0% and were validated through leak and statistical testing.
+ Interned at Kia India during the launch of the India-specific Kia Carens at a high-capacity plant producing over 300,000 vehicles annually. Partnered with cross-functional teams to deliver rapid quality improvements across multiple vehicle programs during ramp-up.
     </p>
     <p>
-      I also addressed a cowl fitment issue in the Kia Seltos, reducing assembly time by 40% through design optimization. My work further improved First Time Yield by over 70% and contributed to higher OEE by supporting die corrections and supplier process improvements. This internship was recognized as the best capstone project in my cohort.
+     Drove resolution of a critical tailgate water ingress issue on the Kia Carens using structured problem-solving (SPC, 7 QC tools, fishbone analysis). Executed geometry redesigns to the weatherstrip, tailgate mounting points, drip channel layout, and weld locations. Achieved a defect rate reduction from 62% to 0%, validated through leak and statistical testing.
+    </p>
+    <p>
+      Optimized the cowl assembly on the Kia Seltos, improving ergonomics and reducing assembly time by 40%, which enhanced cycle time and key production KPIs including line efficiency and throughput.
+    </p>
+    <p>
+Boosted First Time Yield by over 70% and contributed to higher OEE by driving die corrections, supplier process improvements, and robust validation loops.
     </p>
   </div>
 </div>
