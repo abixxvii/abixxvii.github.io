@@ -15,7 +15,7 @@ I’ve stacked hands-on wins across diverse roles. Interned in the automotive, m
 
  I’m passionate about building across disciplines. I enjoy wearing multiple hats. whether it’s designing, fabricating, testing, or working closely with teammates to get things done. I bring curiosity, precision, and energy to every project I take on.
 
-**I am driven to work on the hard stuff, the high-risk and high-reward moonshot problems that demand audacity, resilience, and systems thinking. I am a zealot for tackling challenges most consider impossible, with the goal of pushing boundaries and creating breakthroughs that redefine what is possible.**
+I am driven to work on the hard stuff, the high-risk and high-reward moonshot problems that demand audacity, resilience, and systems thinking. I am a zealot for tackling challenges most consider impossible, with the goal of pushing boundaries and creating breakthroughs that redefine what is possible.
 
 Outside the lab or workshop, I’m an adrenaline junkie. I hike, bike, run, and love driving anything with wheels. I tinker, break, and fix my own gear because understanding how things work and making them better is just who I am. Surfing, scuba diving, and flying a plane are all on my radar. 
 
