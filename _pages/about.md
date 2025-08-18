@@ -9,11 +9,13 @@ redirect_from:
 ---
 
 
-I’m a recent grad with a Master's in Mechatronics & Robotics at NYU, with a First-Class BE in Mechanical Engineering from Osmania University, India. I specialize in turning visionary ideas into reality. I love to take stuff from 0→1 (concept to prototype) and scaling them 1→n (prototype to mass deployment) across automotive, brain-computer interfaces, healthcare, wearables, and humanoid systems.
+I’m a recent grad with a Master's in Mechatronics & Robotics at NYU, with a First-Class BE in Mechanical Engineering from Osmania University, India. I specialize in turning visionary ideas into reality. I love to take stuff from 0→1 (concept to prototype) and scaling them 1→n (prototype to mass deployment) 
 
 I’ve stacked hands-on wins across diverse roles. Interned in the automotive, medtech, sustainability, and consumer industries. I’ve worked with industry giants like [Coopersurgical, Inc.](https://www.coopersurgical.com/about-us/) and [Kia Motors India](https://www.kia.com/in/home.html), and took full ownership of design-to-manufacturing (high volume) at a startup in Spring '25. Across the board, I delivered high-impact results that truly moved the needle.
 
  I’m passionate about building across disciplines. I enjoy wearing multiple hats. whether it’s designing, fabricating, testing, or working closely with teammates to get things done. I bring curiosity, precision, and energy to every project I take on.
+
+**I am driven to work on the hard stuff, the high-risk and high-reward moonshot problems that demand audacity, resilience, and systems thinking. I am a zealot for tackling challenges most consider impossible, with the goal of pushing boundaries and creating breakthroughs that redefine what is possible.**
 
 Outside the lab or workshop, I’m an adrenaline junkie. I hike, bike, run, and love driving anything with wheels. I tinker, break, and fix my own gear because understanding how things work and making them better is just who I am. Surfing, scuba diving, and flying a plane are all on my radar. 
 
