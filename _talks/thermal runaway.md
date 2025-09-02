@@ -8,9 +8,9 @@ location: New York, US
 
 - Lithium-ion batteries are used in EVs, grid-scale storage, consumer electronics, and aerospace. Across all domains, thermal runaway (TR) is a leading safety concern, capable of causing fires and explosions.
 
-## Problem: Existing warning systems rely on embedded sensors (temperature, voltage, pressure) that are slow to respond or provide signals only after failure is underway.
+**Problem**: Existing warning systems rely on embedded sensors (temperature, voltage, pressure) that are slow to respond or provide signals only after failure is underway.
 
-- Gap: There is little to no research demonstrating a vision-based, physics-informed approach to detect TR earlier and more reliably.
+**Gap**: There is little to no research demonstrating a vision-based, physics-informed approach to detect TR earlier and more reliably.
 
 ### 2. Objective
 
